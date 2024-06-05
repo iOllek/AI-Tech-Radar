@@ -34,6 +34,7 @@ Google Vertex AI,Trial,Tools,TRUE,<p>Google Vertex AI bietet eine verwaltete Mac
 Amazon Comprehend,Assess,Tools,TRUE,"<p>Amazon Comprehend ist ein NLP-Service von AWS, der Textdokumente analysiert und Einblicke liefert. Weitere Informationen <a href='https://aws.amazon.com/comprehend/'>hier</a>.</p>"
 Salesforce Einstein,Adopt,Tools,TRUE,"<p>Salesforce Einstein bietet AI-Funktionen, die in die Salesforce-Plattform integriert sind, um personalisierte Kundenerfahrungen zu ermöglichen. Details <a href='https://www.salesforce.com/products/einstein/overview/'>hier</a>.</p>"
 Oracle AI,Adopt,Tools,TRUE,"<p>Oracle AI bietet eine Suite von AI-Diensten für Unternehmen, die verschiedene Geschäftsprozesse unterstützen. Mehr dazu <a href='https://www.oracle.com/artificial-intelligence/'>hier</a>.</p>"
+<!-- Art & Creativity Tools //-->
 AI Magic Tools (by runway)",Trial,Tools,False,"<p>AI Magic Tools by Runway bietet eine Suite von Kreativitätswerkzeugen zur Bearbeitung und Generierung von Inhalten. Mehr dazu <a href='https://runwayml.com/'>hier</a>.</p>"
 AvatarAI",Assess,Tools,False,"<p>AvatarAI erstellt fotorealistische AI-Avatare. Mehr dazu <a href='https://avatarai.me/'>hier</a>.</p>"
 ClipDrop",Trial,Tools,False,"<p>ClipDrop bietet Apps, Plugins und Ressourcen für Kreative, unterstützt durch AI. Mehr dazu <a href='https://clipdrop.co/'>hier</a>.</p>"
@@ -55,3 +56,4 @@ eBank",Assess,Tools,False,"<p>eBank ist ein AI Art Generator und eine AI Art Suc
 Architecture Helper",Assess,Tools,False,"<p>Architecture Helper analysiert jede Gebäudearchitektur und generiert in Sekunden Ihre eigenen benutzerdefinierten Stile. Mehr dazu <a href='https://architecturehelper.com/'>hier</a>.</p>"
 VocalReplica",Trial,Tools,False,"<p>VocalReplica ist eine AI-gestützte Isolation von Gesang und Instrumenten für Ihre Lieblingstracks. Mehr dazu <a href='https://vocalreplica.com/'>hier</a>.</p>"
 X Headshot",Assess,Tools,False,"<p>X Headshot ist ein professioneller AI-Headshot-Generator. Mehr dazu <a href='https://xheadshot.com/'>hier</a>.</p>"
+<!-- Conversational AI Tools //-->

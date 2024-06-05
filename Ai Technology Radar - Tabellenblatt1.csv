@@ -1,7 +1,6 @@
 name,ring,quadrant,isNew,description
 name,ring,quadrant,isNew,Description
 ChatGPT,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
-ChatGPTTest,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
 DALL-E,Trial,Tools,TRUE,<p>DALL-E is an AI model developed by OpenAI to generate images from textual descriptions. More details can be found <a href='https://www.openai.com/research/dall-e'>here</a>.</p>
 BERT,Adopt,languages-and-frameworks,TRUE,"<p>BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model for natural language understanding developed by Google. For more info, click <a href='https://github.com/google-research/bert'>here</a>.</p>"
 OpenAI Codex,Trial,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"

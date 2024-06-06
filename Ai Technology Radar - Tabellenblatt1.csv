@@ -13,7 +13,7 @@ Rytr,Assess,Tools,False,"<p>Rytr automatisiert den Designprozess. Mehr dazu <a h
 Craiyon (Formerly DALL-E Mini),Trial,Tools,False,"<p>Craiyon ist ein kostenloser Online-AI-Bildgenerator aus Text. Mehr dazu <a href='https://www.craiyon.com/'>hier</a>.</p>"
 IRIS Audio,Trial,Tools,False,"<p>IRIS Audio ist ein AI-gestütztes Online-Tool zur Stimmisolierung und Geräuschunterdrückung. Mehr dazu <a href='https://iris.audio/call-centres'>hier</a>.</p>"
 Human Generator,Assess,Tools,False,"<p>Human Generator ist ein AI-gestützter Generator von Menschen. Mehr dazu <a href='https://humangenerator.me/'>hier</a>.</p>"
-Let's Enhance,Adopt,Tools,False,"<p>Let's Enhance verbessert und skaliert Bilder ohne Qualitätsverlust. Mehr dazu <a href='https://letsenhance.io/'>hier</a>.</p>"
+Let's Enhance,Trial,Tools,False,"<p>Let's Enhance verbessert und skaliert Bilder ohne Qualitätsverlust. Mehr dazu <a href='https://letsenhance.io/'>hier</a>.</p>"
 The Multiverse AI,Assess,Tools,False,"<p>The Multiverse AI verwandelt Selfies in professionelle Porträtfotos. Mehr dazu <a href='https://themultiverse.ai/'>hier</a>.</p>"
 StockPhotoAI.net,Assess,Tools,False,"<p>StockPhotoAI.net bietet großartige Stockfotos, die für Sie gemacht wurden. Mehr dazu <a href='https://stockphotoai.net/'>hier</a>.</p>"
 FairyTailAI,Assess,Tools,False,"<p>FairyTailAI ist ein personalisierter Gute-Nacht-Geschichten-Generator. Mehr dazu <a href='https://fairytail.ai/'>hier</a>.</p>"
@@ -33,10 +33,10 @@ Claude,Assess,Tools,False,"<p>Claude ist ein AI-Assistent von Anthropic. Mehr da
 <!-- Design Tools //-->
 Interior AI,Trial,Tools,False,"<p>Interior AI bietet Interior-Design-Mockups und virtuelle Inszenierungen. Mehr dazu <a href='https://interiorai.com/'>hier</a>.</p>"
 stockimg.ai,Trial,Tools,False,"<p>stockimg.ai bietet AI-gestützte Designs. Mehr dazu <a href='https://stockimg.ai/'>hier</a>.</p>"
-Brand Mark,Adopt,Tools,False,"<p>Brand Mark generiert Markenlogos. Mehr dazu <a href='https://brandmark.io/'>hier</a>.</p>"
+Brand Mark,Assess,Tools,False,"<p>Brand Mark generiert Markenlogos. Mehr dazu <a href='https://brandmark.io/'>hier</a>.</p>"
 Magic Eraser,Trial,Tools,False,"<p>Magic Eraser entfernt unerwünschte Elemente aus Bildern. Mehr dazu <a href='https://magiceraser.io/'>hier</a>.</p>"
 bigJPG,Assess,Tools,False,"<p>bigJPG erhöht die Bildauflösung. Mehr dazu <a href='https://bigjpg.com/'>hier</a>.</p>"
-Profile Pic Maker,Adopt,Tools,False,"<p>Profile Pic Maker erstellt Profilbilder. Mehr dazu <a href='https://pfpmaker.com/'>hier</a>.</p>"
+Profile Pic Maker,Assess,Tools,False,"<p>Profile Pic Maker erstellt Profilbilder. Mehr dazu <a href='https://pfpmaker.com/'>hier</a>.</p>"
 Musicfy,Assess,Tools,False,"<p>Musicfy erstellt AI-Cover Ihrer Lieblingssongs in Sekunden. Mehr dazu <a href='https://musicfy.studio/'>hier</a>.</p>"
 Room Reinvented,Trial,Tools,False,"<p>Room Reinvented verwandelt Räume mühelos mit AI, indem es über 30 beeindruckende Innenstile erstellt. Mehr dazu <a href='https://roomreinvented.com/'>hier</a>.</p>"
 <!-- eCommerce //-->
@@ -49,7 +49,7 @@ Anypod,Trial,Tools,False,"<p>Anypod ist eine semantische Suchmaschine für YouTu
 Ask Botta,Assess,Tools,False,"<p>Ask Botta ist ein persönlicher Lehrassistent. Mehr dazu <a href='https://askbotta.com/'>hier</a>.</p>"
 Podly.ai,Assess,Tools,False,"<p>Podly.ai bietet zusammengefasste Podcasts. Mehr dazu <a href='https://podly.ai/'>hier</a>.</p>"
 Lorro,Hold,Tools,False,"<p>Lorro ermöglicht das Üben von Englisch mit einem AI-Tutor. Mehr dazu <a href='https://serp.ai/tools/lorro//'>hier</a>.</p>"
-SlidesAI.io,Adopt,Tools,False,"<p>SlidesAI.io ist ein AI-gestütztes Text-zu-Präsentation-Tool, das mit Google Slides funktioniert. Mehr dazu <a href='https://slidesai.io/'>hier</a>.</p>"
+SlidesAI.io,Trial,Tools,False,"<p>SlidesAI.io ist ein AI-gestütztes Text-zu-Präsentation-Tool, das mit Google Slides funktioniert. Mehr dazu <a href='https://slidesai.io/'>hier</a>.</p>"
 Flair,Assess,Tools,False,"<p>Flair ist ein AI-Design-Tool für gebrandete Inhalte. Mehr dazu <a href='https://flair.ai/'>hier</a>.</p>"
 Twee,Assess,Tools,False,"<p>Twee bietet AI-gestützte Werkzeuge für Englischlehrer. Mehr dazu <a href='https://twee.com//'>hier</a>.</p>"
 Wilco Sierra,Assess,Tools,False,"<p>Wilco Sierra ist eine Plattform, die mit AI Herausforderungen für Softwareingenieure generiert. Mehr dazu <a href='https://trywilco.com/'>hier</a>.</p>"
@@ -89,12 +89,12 @@ Inworld AI,Assess,Tools,False,"<p>Inworld AI ermöglicht die Erstellung beliebig
 <!-- Sales & Marketing //-->
 Choppity.com,Assess,Tools,False,"<p>Choppity.com verwandelt lange Podcast-Videos sofort in kurze TikToks. Mehr dazu <a href='https://choppity.com/'>hier</a>.</p>"
 copy.ai,Adopt,Tools,False,"<p>copy.ai ist ein AI-Content-Generator. Mehr dazu <a href='https://www.copy.ai/'>hier</a>.</p>"
-Jasper,Adopt,Tools,False,"<p>Jasper ist ein AI-Content-Ersteller. Mehr dazu <a href='https://www.jasper.ai/'>hier</a>.</p>"
+Jasper,Trial,Tools,False,"<p>Jasper ist ein AI-Content-Ersteller. Mehr dazu <a href='https://www.jasper.ai/'>hier</a>.</p>"
 Magic Summaries by Sybill,Trial,Tools,False,"<p>Magic Summaries von Sybill erstellt automatische, genaue Zusammenfassungen von Verkaufsgesprächen mithilfe von AI. Mehr dazu <a href='https://www.sybill.ai/magic-summaries'>hier</a>.</p>"
 Peech,Assess,Tools,False,"<p>Peech ist ein Video-Content-Ersteller für Content-Marketing. Mehr dazu <a href='https://www.peech.ai/'>hier</a>.</p>"
 Headlines,Assess,Tools,False,"<p>Headlines generiert Schlagzeilen für Content-Marketing. Mehr dazu <a href='https://headlines.ai/'>hier</a>.</p>"
 PressPulse AI,Assess,Tools,False,"<p>PressPulse AI bietet personalisierte Medienabdeckung-Leads jeden Morgen. Mehr dazu <a href='https://presspulse.ai/'>hier</a>.</p>"
-Taplio,Adopt,Tools,False,"<p>Taplio ist das All-in-One, AI-gestützte LinkedIn-Tool. Mehr dazu <a href='https://taplio.com/'>hier</a>.</p>"
+Taplio,Trial,Tools,False,"<p>Taplio ist das All-in-One, AI-gestützte LinkedIn-Tool. Mehr dazu <a href='https://taplio.com/'>hier</a>.</p>"
 Clipwing,Assess,Tools,False,"<p>Clipwing ist ein Tool zum Schneiden langer Videos in Dutzende kurze Clips. Mehr dazu <a href='https://clipwing.com/'>hier</a>.</p>"
 Recast Studio,Assess,Tools,False,"<p>Recast Studio ist ein AI-gestützter Podcast-Marketing-Assistent. Mehr dazu <a href='https://recast.studio/'>hier</a>.</p>"
 LinkActions,Trial,Tools,False,"<p>LinkActions ist ein AI-gestützter Assistent für interne Links. Mehr dazu <a href='https://linkactions.com/'>hier</a>.</p>"
@@ -169,9 +169,7 @@ Glowup AI,Assess,Tools,False,"<p>Finden Sie heraus, wie schön Sie sind. Mehr da
 MyLooks.AI,Assess,Tools,False,"<p>Finden Sie heraus, wie attraktiv Sie sind und werden Sie noch attraktiver! Mehr dazu <a href='https://mylooks.ai/'>hier</a>.</p>"
 <!-- LLMs - GPT, Lama, Gemini  //-->
 <!-- General-Purpose LLMs //-->
-ChatGPT,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
-GPT-3,Hold,languages-and-frameworks,TRUE,"<p>GPT-3, developed by OpenAI, is one of the most powerful language models available. Details can be found <a href='https://www.openai.com/research/gpt-3'>here</a>.</p>"
-GPT-4,Adopt,languages-and-frameworks,TRUE,"<p>GPT-4, developed by OpenAI, is an improved version of GPT-3 with enhanced capabilities. More info <a href='https://www.openai.com/research/gpt-4'>here</a>.</p>"
+GPT-4o,Adopt,languages-and-frameworks,TRUE,"<p>GPT-4o, developed by OpenAI, is an improved version of GPT-4 with enhanced capabilities. More info <a href='https://www.openai.com/research/gpt-4'>here</a>.</p>"
 Claude,Trial,languages-and-frameworks,TRUE,"<p>Claude, developed by Anthropic, is a large language model focusing on ethical and safe AI development. More info <a href='https://www.anthropic.com/'>here</a>.</p>"
 Gemini,Adopt,languages-and-frameworks,TRUE,"<p>Gemini is Google's latest large language model designed for various language tasks. More info <a href='https://www.google.com/'>here</a>.</p>"
 LLaMA,Adopt,languages-and-frameworks,TRUE,"<p>LLaMA (Large Language Model Meta AI) is developed by Meta for research purposes. More details <a href='https://ai.facebook.com/'>here</a>.</p>"
@@ -200,21 +198,21 @@ Baidu AI Cloud,Trial,Platforms,TRUE,"<p>Baidu AI Cloud offers comprehensive AI s
 Huawei Cloud AI,Hold,Platforms,TRUE,"<p>Huawei Cloud AI provides robust AI solutions including model training, deployment, and inferencing services. More details <a href='https://www.huaweicloud.com/intl/en-us/product/ei.html'>here</a>.</p>"
 <!-- Enterprise AI Platforms //-->
 SAP AI,Adopt,Platforms,TRUE,"<p>SAP AI offers integrated AI services to help businesses automate processes and enhance decision-making. More info <a href='https://www.sap.com/products/artificial-intelligence.html'>here</a>.</p>"
-C3.ai,Adopt,Platforms,TRUE,"<p>C3.ai provides a suite of AI-driven applications for enterprises to optimize operations and enhance decision-making. More info <a href='https://c3.ai/'>here</a>.</p>"
-DataRobot,Adopt,Platforms,TRUE,"<p>DataRobot offers an enterprise AI platform that accelerates the development and deployment of machine learning models. Learn more <a href='https://www.datarobot.com/'>here</a>.</p>"
-Cloudera Machine Learning,Adopt,Platforms,TRUE,"<p>Cloudera Machine Learning offers an enterprise platform for building and deploying machine learning models at scale. More details <a href='https://www.cloudera.com/products/machine-learning.html'>here</a>.</p>"
+C3.ai,Assess,Platforms,TRUE,"<p>C3.ai provides a suite of AI-driven applications for enterprises to optimize operations and enhance decision-making. More info <a href='https://c3.ai/'>here</a>.</p>"
+DataRobot,Trial,Platforms,TRUE,"<p>DataRobot offers an enterprise AI platform that accelerates the development and deployment of machine learning models. Learn more <a href='https://www.datarobot.com/'>here</a>.</p>"
+Cloudera Machine Learning,Trial,Platforms,TRUE,"<p>Cloudera Machine Learning offers an enterprise platform for building and deploying machine learning models at scale. More details <a href='https://www.cloudera.com/products/machine-learning.html'>here</a>.</p>"
 <!-- Open-Source and Community-Driven Platforms //-->
-H2O.ai,Adopt,Platforms,TRUE,"<p>H2O.ai provides an open-source platform for building and deploying AI models with ease. More info <a href='https://www.h2o.ai/'>here</a>.</p>
+H2O.ai,Trial,Platforms,TRUE,"<p>H2O.ai provides an open-source platform for building and deploying AI models with ease. More info <a href='https://www.h2o.ai/'>here</a>.</p>
 Anaconda,Adopt,Platforms,TRUE,"<p>Anaconda is an open-source distribution of Python and R for scientific computing and machine learning. Learn more <a href='https://www.anaconda.com/'>here</a>.</p>"
 <!-- Data Science and Collaboration Platforms //-->
 Domino Data Lab,Adopt,Platforms,TRUE,"<p>Domino Data Lab provides a platform for data science teams to build and deploy models faster. More info <a href='https://www.dominodatalab.com/'>here</a>.</p>"
-RapidMiner,Adopt,Platforms,TRUE,"<p>RapidMiner offers a data science platform for teams to collaboratively build and deploy machine learning models. More details <a href='https://rapidminer.com/'>here</a>.</p>"
-Alteryx,Adopt,Platforms,TRUE,"<p>Alteryx provides a platform for data analytics and machine learning to help organizations drive insights and automate processes. Learn more <a href='https://www.alteryx.com/'>here</a>.</p>"
+RapidMiner,Assess,Platforms,TRUE,"<p>RapidMiner offers a data science platform for teams to collaboratively build and deploy machine learning models. More details <a href='https://rapidminer.com/'>here</a>.</p>"
+Alteryx,Trial,Platforms,TRUE,"<p>Alteryx provides a platform for data analytics and machine learning to help organizations drive insights and automate processes. Learn more <a href='https://www.alteryx.com/'>here</a>.</p>"
 <!-- AI Techniques - Machine Learning, Neural Networking, AI Learning, Natural Language Models //-->
 <!-- Machine Learning Frameworks //-->
 TensorFlow,Adopt,Techniques,TRUE,"<p>TensorFlow is an end-to-end open-source platform for machine learning. For more details, visit <a href='https://www.tensorflow.org/'>TensorFlow</a>.</p>"
 PyTorch,Adopt,Techniques,TRUE,"<p>PyTorch is an open-source machine learning library developed by Facebook's AI Research lab. More information is available <a href='https://pytorch.org/'>here</a>.</p>"
-Scikit-learn,Adopt,Techniques,TRUE,"<p>Scikit-learn is a free software machine learning library for the Python programming language. Learn more <a href='https://scikit-learn.org/'>here</a>.</p>"
+Scikit-learn,Trial,Techniques,TRUE,"<p>Scikit-learn is a free software machine learning library for the Python programming language. Learn more <a href='https://scikit-learn.org/'>here</a>.</p>"
 Keras,Trial,Techniques,TRUE,"<p>Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow. More info <a href='https://keras.io/'>here</a>.</p>"
 XGBoost,Trial,Techniques,TRUE,"<p>XGBoost is a scalable and efficient gradient boosting framework. Learn more <a href='https://xgboost.readthedocs.io/'>here</a>.</p>"
 <!-- Neural Network Libraries //-->

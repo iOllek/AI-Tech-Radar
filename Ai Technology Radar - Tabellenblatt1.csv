@@ -1,7 +1,6 @@
 name,ring,quadrant,isNew,description
 <!-- First Draft uncategorized //-->
 ChatGPT,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
-DALL-E,Trial,Tools,TRUE,<p>DALL-E is an AI model developed by OpenAI to generate images from textual descriptions. More details can be found <a href='https://www.openai.com/research/dall-e'>here</a>.</p>
 BERT,Adopt,languages-and-frameworks,TRUE,"<p>BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model for natural language understanding developed by Google. For more info, click <a href='https://github.com/google-research/bert'>here</a>.</p>"
 OpenAI Codex,Trial,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
 GPT-3,Assess,languages-and-frameworks,TRUE,"<p>GPT-3, developed by OpenAI, is one of the most powerful language models available. Details can be found <a href='https://www.openai.com/research/gpt-3'>here</a>.</p>"
@@ -40,13 +39,12 @@ AvatarAI,Assess,Tools,False,"<p>AvatarAI erstellt fotorealistische AI-Avatare. M
 ClipDrop,Trial,Tools,False,"<p>ClipDrop bietet Apps, Plugins und Ressourcen für Kreative, unterstützt durch AI. Mehr dazu <a href='https://clipdrop.co/'>hier</a>.</p>"
 DreamStudio,Trial,Tools,False,"<p>DreamStudio ist ein Open-Source-Bildgenerierungsmodell zur Erstellung realistischer Bilder. Mehr dazu <a href='https://beta.dreamstudio.ai/'>hier</a>.</p>"
 Lensa,Adopt,Tools,False,"<p>Lensa ist eine AI-gestützte Bildbearbeitungs-App für Avatare. Mehr dazu <a href='https://www.lensa-ai.com/'>hier</a>.</p>"
-Midjourney,Adopt,Tools,False,"<p>Midjourney ist ein AI-gestützter Kunstgenerator. Mehr dazu <a href='https://www.midjourney.com/'>hier</a>.</p>"
 Phraser,Assess,Tools,False,"<p>Phraser ist ein kollaboratives kreatives AI-Tool. Mehr dazu <a href='https://phraser.tech/'>hier</a>.</p>"
 Playground,Trial,Tools,False,"<p>Playground durchsucht Prompts für die Kunstgenerierung. Mehr dazu <a href='https://playgroundai.com/'>hier</a>.</p>"
 Synthesia,Adopt,Tools,False,"<p>Synthesia ist eine AI-Videoerstellungsplattform. Mehr dazu <a href='https://www.synthesia.io/'>hier</a>.</p>"
 Rytr,Assess,Tools,False,"<p>Rytr automatisiert den Designprozess. Mehr dazu <a href='https://rytr.me/'>hier</a>.</p>"
 Craiyon (Formerly DALL-E Mini),Trial,Tools,False,"<p>Craiyon ist ein kostenloser Online-AI-Bildgenerator aus Text. Mehr dazu <a href='https://www.craiyon.com/'>hier</a>.</p>"
-IRIS Clarity Studio,Trial,Tools,False,"<p>IRIS Clarity Studio ist ein AI-gestütztes Online-Tool zur Stimmisolierung und Geräuschunterdrückung. Mehr dazu <a href='https://iris.fm/clarity/'>hier</a>.</p>"
+IRIS Audio,Trial,Tools,False,"<p>IRIS Audio ist ein AI-gestütztes Online-Tool zur Stimmisolierung und Geräuschunterdrückung. Mehr dazu <a href='https://iris.audio/call-centres'>hier</a>.</p>"
 Human Generator,Assess,Tools,False,"<p>Human Generator ist ein AI-gestützter Generator von Menschen. Mehr dazu <a href='https://humangenerator.me/'>hier</a>.</p>"
 Let's Enhance,Adopt,Tools,False,"<p>Let's Enhance verbessert und skaliert Bilder ohne Qualitätsverlust. Mehr dazu <a href='https://letsenhance.io/'>hier</a>.</p>"
 The Multiverse AI,Assess,Tools,False,"<p>The Multiverse AI verwandelt Selfies in professionelle Porträtfotos. Mehr dazu <a href='https://themultiverse.ai/'>hier</a>.</p>"
@@ -78,15 +76,15 @@ Room Reinvented,Trial,Tools,False,"<p>Room Reinvented verwandelt Räume mühelos
 Lootgod.com,Trial,Tools,False,"<p>Lootgod.com bietet generative AI für Bekleidung mit Print-on-Demand. Mehr dazu <a href='https://lootgod.com/'>hier</a>.</p>"
 <!-- Finance //-->
 morpher.com,Assess,Tools,False,"<p>morpher.com bietet eine umfassende AI für die Finanzmarktanalyse und agiert als persönlicher Anlageanalyst. Mehr dazu <a href='https://www.morpher.com/'>hier</a>.</p>"
-COUNT,Trial,Tools,False,"<p>COUNT bietet AI-gestützte Buchhaltung für kleine Unternehmen. Mehr dazu <a href='https://www.count.io/'>hier</a>.</p>"
+COUNT,Hold,Tools,False,"<p>COUNT bietet AI-gestützte Buchhaltung für kleine Unternehmen. Mehr dazu <a href='https://www.count.io/'>hier</a>.</p>"
 <!-- Education //-->
-Anypod.ai,Trial,Tools,False,"<p>Anypod.ai ist eine semantische Suchmaschine für YouTube- und Podcast-Inhalte. Mehr dazu <a href='https://anypod.ai/'>hier</a>.</p>"
+Anypod,Trial,Tools,False,"<p>Anypod ist eine semantische Suchmaschine für YouTube- und Podcast-Inhalte. Mehr dazu <a href='https://serp.ai/tools/anypod/'>hier</a>.</p>"
 Ask Botta,Assess,Tools,False,"<p>Ask Botta ist ein persönlicher Lehrassistent. Mehr dazu <a href='https://askbotta.com/'>hier</a>.</p>"
 Podly.ai,Assess,Tools,False,"<p>Podly.ai bietet zusammengefasste Podcasts. Mehr dazu <a href='https://podly.ai/'>hier</a>.</p>"
-Lorro,Trial,Tools,False,"<p>Lorro ermöglicht das Üben von Englisch mit einem AI-Tutor. Mehr dazu <a href='https://lorro.io/'>hier</a>.</p>"
+Lorro,Hold,Tools,False,"<p>Lorro ermöglicht das Üben von Englisch mit einem AI-Tutor. Mehr dazu <a href='https://serp.ai/tools/lorro//'>hier</a>.</p>"
 SlidesAI.io,Adopt,Tools,False,"<p>SlidesAI.io ist ein AI-gestütztes Text-zu-Präsentation-Tool, das mit Google Slides funktioniert. Mehr dazu <a href='https://slidesai.io/'>hier</a>.</p>"
 Flair,Assess,Tools,False,"<p>Flair ist ein AI-Design-Tool für gebrandete Inhalte. Mehr dazu <a href='https://flair.ai/'>hier</a>.</p>"
-Twee,Trial,Tools,False,"<p>Twee bietet AI-gestützte Werkzeuge für Englischlehrer. Mehr dazu <a href='https://twee.io/'>hier</a>.</p>"
+Twee,Assess,Tools,False,"<p>Twee bietet AI-gestützte Werkzeuge für Englischlehrer. Mehr dazu <a href='https://twee.com//'>hier</a>.</p>"
 Wilco Sierra,Assess,Tools,False,"<p>Wilco Sierra ist eine Plattform, die mit AI Herausforderungen für Softwareingenieure generiert. Mehr dazu <a href='https://trywilco.com/'>hier</a>.</p>"
 Yomu,Assess,Tools,False,"<p>Yomu ist ein AI-Schreibassistent für Studenten und Akademiker. Mehr dazu <a href='https://yomu.ai/'>hier</a>.</p>"
 PDFPeer,Trial,Tools,False,"<p>PDFPeer ermöglicht es, innerhalb von Sekunden mit jedem PDF zu chatten. Mehr dazu <a href='https://pdfpeer.com/'>hier</a>.</p>"
@@ -94,7 +92,7 @@ Sourcely,Assess,Tools,False,"<p>Sourcely ist ein AI-Tool zur Auffindung akademis
 LangMagic,Assess,Tools,False,"<p>LangMagic ermöglicht das Erlernen von Sprachen durch native Inhalte. Mehr dazu <a href='https://langmagic.io/'>hier</a>.</p>"
 Auto Streamer,Assess,Tools,False,"<p>Auto Streamer ermöglicht das Erstellen von Kurswebsites in Minuten, um alles nach Bedarf zu lernen und zu lehren. Mehr dazu <a href='https://autostreamer.com/'>hier</a>.</p>"
 SopCreator,Assess,Tools,False,"<p>SopCreator hilft bei der Erstellung von Statements of Purpose mit AI. Mehr dazu <a href='https://sopcreator.com/'>hier</a>.</p>"
-MathSolver,Trial,Tools,False,"<p>MathSolver nutzt AI zur Lösung von Mathematikproblemen und zum Lernen. Mehr dazu <a href='https://mathsolver.com/'>hier</a>.</p>"
+StudyX,Assess,Tools,False,"<p>StudyX nutzt AI zur Lösung von Mathematikproblemen und zum Lernen. Mehr dazu <a href='https://studyx.ai/math-solver/'>hier</a>.</p>"
 <!-- Developer //-->
 Chat Data Prep,Assess,Tools,False,"<p>Chat Data Prep ermöglicht die Datenumwandlung mit einfacher englischer Sprache. Mehr dazu <a href='https://chatdataprep.com/'>hier</a>.</p>"
 Codeium,Trial,Tools,False,"<p>Codeium bietet eine kostenlose AI-gestützte Codevervollständigung. Mehr dazu <a href='https://codeium.com/'>hier</a>.</p>"
@@ -213,14 +211,14 @@ LLaMA,Assess,languages-and-frameworks,TRUE,"<p>LLaMA (Large Language Model Meta 
 <!-- Specialized LLMs //-->
 BLOOM,Assess,languages-and-frameworks,TRUE,"<p>BLOOM is an open LLM developed by Hugging Face, designed for multiple languages and tasks. More info <a href='https://huggingface.co/bigscience/bloom'>here</a>.</p>
 Hugging Face Transformers,Assess,Tools,TRUE,"<p>Hugging Face Transformers provides state-of-the-art general-purpose architectures for natural language understanding and generation. More details <a href='https://huggingface.co/transformers/'>here</a>.</p>"
-OpenAI Codex,Trial,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
-LaMDA,Trial,Tools,TRUE,"<p>LaMDA (Language Model for Dialogue Applications) is developed by Google and optimized for conversational applications. More details <a href='https://www.google.com/'>here</a>.</p>"
+OpenAI Codex,Hold,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
+LaMDA,Trial,Tools,TRUE,"<p>LaMDA (Language Model for Dialogue Applications) is developed by Google and optimized for conversational applications. More details <a href='https://blog.google/technology/ai/lamda/'>here</a>.</p>"
 <!-- Multilingual LLMs //-->
 mBERT,Adopt,languages-and-frameworks,TRUE,"<p>mBERT (Multilingual BERT) is a multilingual version of BERT supporting various languages. More info <a href='https://github.com/google-research/bert/blob/master/multilingual.md'>here</a>.</p>"
 XLM-R,Adopt,languages-and-frameworks,TRUE,"<p>XLM-R (XLM-RoBERTa) is a robustly trained multilingual model from Facebook AI. More details <a href='https://arxiv.org/abs/1911.02116'>here</a>.</p>"
 <!-- Generative Models //-->
 DALL-E,Trial,Tools,TRUE,"<p>DALL-E is an AI model developed by OpenAI to generate images from textual descriptions. More details can be found <a href='https://www.openai.com/research/dall-e'>here</a>.</p>"
-MidJourney,Trial,Tools,TRUE,"<p>MidJourney is an AI-based platform for creating artworks from text descriptions. Details <a href='https://www.midjourney.com/'>here</a>.</p>"
+Midjourney,Trial,Tools,TRUE,"<p>Midjourney is an AI-based platform for creating artworks from text descriptions. Details <a href='https://www.midjourney.com/'>here</a>.</p>"
 Stable Diffusion,Adopt,Tools,TRUE,"<p>Stable Diffusion is a generative AI model that creates high-quality images from text descriptions. More info <a href='https://stability.ai/'>here</a>.</p>"
 <!-- AI Platforms //-->
 <!-- Cloud AI //-->

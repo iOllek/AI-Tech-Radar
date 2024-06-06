@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-<!-- First Draft uncategorized //-->
+<!-- First Draft uncategorized
 ChatGPT,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
 BERT,Adopt,languages-and-frameworks,TRUE,"<p>BERT (Bidirectional Encoder Representations from Transformers) is a transformer-based model for natural language understanding developed by Google. For more info, click <a href='https://github.com/google-research/bert'>here</a>.</p>"
 OpenAI Codex,Trial,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
@@ -32,7 +32,7 @@ Dataiku,Trial,Platforms,TRUE,"<p>Dataiku ist eine Datenanalyseplattform, die Mac
 Google Vertex AI,Trial,Tools,TRUE,<p>Google Vertex AI bietet eine verwaltete Machine-Learning-Plattform für die einfache Implementierung und Verwaltung von ML-Modellen. Mehr Infos <a href='https://cloud.google.com/vertex-ai'>hier</a>.</p>
 Amazon Comprehend,Assess,Tools,TRUE,"<p>Amazon Comprehend ist ein NLP-Service von AWS, der Textdokumente analysiert und Einblicke liefert. Weitere Informationen <a href='https://aws.amazon.com/comprehend/'>hier</a>.</p>"
 Salesforce Einstein,Adopt,Tools,TRUE,"<p>Salesforce Einstein bietet AI-Funktionen, die in die Salesforce-Plattform integriert sind, um personalisierte Kundenerfahrungen zu ermöglichen. Details <a href='https://www.salesforce.com/products/einstein/overview/'>hier</a>.</p>"
-Oracle AI,Adopt,Tools,TRUE,"<p>Oracle AI bietet eine Suite von AI-Diensten für Unternehmen, die verschiedene Geschäftsprozesse unterstützen. Mehr dazu <a href='https://www.oracle.com/artificial-intelligence/'>hier</a>.</p>"
+Oracle AI,Adopt,Tools,TRUE,"<p>Oracle AI bietet eine Suite von AI-Diensten für Unternehmen, die verschiedene Geschäftsprozesse unterstützen. Mehr dazu <a href='https://www.oracle.com/artificial-intelligence/'>hier</a>.</p>"  //-->
 <!-- Art & Creativity Tools //-->
 AI Magic Tools (by runway),Trial,Tools,False,"<p>AI Magic Tools by Runway bietet eine Suite von Kreativitätswerkzeugen zur Bearbeitung und Generierung von Inhalten. Mehr dazu <a href='https://runwayml.com/'>hier</a>.</p>"
 AvatarAI,Assess,Tools,False,"<p>AvatarAI erstellt fotorealistische AI-Avatare. Mehr dazu <a href='https://avatarai.me/'>hier</a>.</p>"

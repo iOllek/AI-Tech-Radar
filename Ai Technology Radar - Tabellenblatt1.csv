@@ -181,8 +181,8 @@ Hugging Face Transformers,Assess,Tools,TRUE,"<p>Hugging Face Transformers provid
 OpenAI Codex,Hold,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
 LaMDA,Trial,Tools,TRUE,"<p>LaMDA (Language Model for Dialogue Applications) is developed by Google and optimized for conversational applications. More details <a href='https://blog.google/technology/ai/lamda/'>here</a>.</p>"
 <!-- Multilingual LLMs //-->
-mBERT,Adopt,languages-and-frameworks,TRUE,"<p>mBERT (Multilingual BERT) is a multilingual version of BERT supporting various languages. More info <a href='https://github.com/google-research/bert/blob/master/multilingual.md'>here</a>.</p>"
-XLM-R,Adopt,languages-and-frameworks,TRUE,"<p>XLM-R (XLM-RoBERTa) is a robustly trained multilingual model from Facebook AI. More details <a href='https://arxiv.org/abs/1911.02116'>here</a>.</p>"
+mBERT,Assess,languages-and-frameworks,TRUE,"<p>mBERT (Multilingual BERT) is a multilingual version of BERT supporting various languages. More info <a href='https://github.com/google-research/bert/blob/master/multilingual.md'>here</a>.</p>"
+XLM-R,Trial,languages-and-frameworks,TRUE,"<p>XLM-R (XLM-RoBERTa) is a robustly trained multilingual model from Facebook AI. More details <a href='https://arxiv.org/abs/1911.02116'>here</a>.</p>"
 <!-- Generative Models //-->
 DALL-E,Trial,Tools,TRUE,"<p>DALL-E is an AI model developed by OpenAI to generate images from textual descriptions. More details can be found <a href='https://www.openai.com/research/dall-e'>here</a>.</p>"
 Midjourney,Trial,Tools,TRUE,"<p>Midjourney is an AI-based platform for creating artworks from text descriptions. Details <a href='https://www.midjourney.com/'>here</a>.</p>"
@@ -194,8 +194,8 @@ AWS SageMaker,Adopt,Platforms,TRUE,"<p>AWS SageMaker is a fully managed service 
 Google Cloud AI,Adopt,Platforms,TRUE,"<p>Google Cloud AI provides powerful tools and services to help developers build, deploy, and scale AI models. More info <a href='https://cloud.google.com/products/ai'>here</a>.</p>"
 IBM Watson,Adopt,Platforms,TRUE,"<p>IBM Watson offers AI and machine learning services to empower businesses with advanced analytics. Learn more <a href='https://www.ibm.com/watson'>here</a>.</p>"
 Oracle Cloud AI,Adopt,Platforms,TRUE,"<p>Oracle Cloud AI provides integrated AI services to help businesses harness the power of AI for various applications. More info <a href='https://www.oracle.com/cloud/ai/'>here</a>.</p>"
-Alibaba Cloud Machine Learning Platform for AI,Trial,Platforms,TRUE,"<p>Alibaba Cloud's Machine Learning Platform for AI (PAI) offers a suite of tools to build and deploy machine learning models. More details <a href='https://www.alibabacloud.com/product/machine-learning'>here</a>.</p>"
-Tencent Cloud AI,Trial,Platforms,TRUE,"<p>Tencent Cloud AI provides a range of AI services including natural language processing, computer vision, and speech recognition. More info <a href='https://intl.cloud.tencent.com/solution/ai'>here</a>.</p>"
+Alibaba Cloud Machine Learning Platform for AI,Assess,Platforms,TRUE,"<p>Alibaba Cloud's Machine Learning Platform for AI (PAI) offers a suite of tools to build and deploy machine learning models. More details <a href='https://www.alibabacloud.com/product/machine-learning'>here</a>.</p>"
+Tencent Cloud AI,Assess,Platforms,TRUE,"<p>Tencent Cloud AI provides a range of AI services including natural language processing, computer vision, and speech recognition. More info <a href='https://intl.cloud.tencent.com/solution/ai'>here</a>.</p>"
 Baidu AI Cloud,Trial,Platforms,TRUE,"<p>Baidu AI Cloud offers comprehensive AI services and tools for various applications such as natural language processing and computer vision. Learn more <a href='https://cloud.baidu.com/product/ai.html'>here</a>.</p>"
 Huawei Cloud AI,Hold,Platforms,TRUE,"<p>Huawei Cloud AI provides robust AI solutions including model training, deployment, and inferencing services. More details <a href='https://www.huaweicloud.com/intl/en-us/product/ei.html'>here</a>.</p>"
 <!-- Enterprise AI Platforms //-->

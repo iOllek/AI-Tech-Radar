@@ -203,7 +203,67 @@ STRProfitMap,Trial,Tools,False,"<p>Datenanalytik SaaS für Airbnb-Investoren. Me
 Glowup AI,Assess,Tools,False,"<p>Finden Sie heraus, wie schön Sie sind. Mehr dazu <a href='https://glowup.ai/'>hier</a>.</p>"
 MyLooks.AI,Assess,Tools,False,"<p>Finden Sie heraus, wie attraktiv Sie sind und werden Sie noch attraktiver! Mehr dazu <a href='https://mylooks.ai/'>hier</a>.</p>"
 <!-- LLMs - GPT, Lama, Gemini  //-->
-<!-- AI Platforms - AWS, AI Cloud Systems... //-->
-<!-- Cloud Systems //-->
+
+<!-- General-Purpose LLMs //-->
+ChatGPT,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
+GPT-3,Assess,languages-and-frameworks,TRUE,"<p>GPT-3, developed by OpenAI, is one of the most powerful language models available. Details can be found <a href='https://www.openai.com/research/gpt-3'>here</a>.</p>"
+GPT-4,Assess,languages-and-frameworks,TRUE,"<p>GPT-4, developed by OpenAI, is an improved version of GPT-3 with enhanced capabilities. More info <a href='https://www.openai.com/research/gpt-4'>here</a>.</p>"
+Claude,Assess,languages-and-frameworks,TRUE,"<p>Claude, developed by Anthropic, is a large language model focusing on ethical and safe AI development. More info <a href='https://www.anthropic.com/'>here</a>.</p>"
+Gemini,Assess,languages-and-frameworks,TRUE,"<p>Gemini is Google's latest large language model designed for various language tasks. More info <a href='https://www.google.com/'>here</a>.</p>"
+LLaMA,Assess,languages-and-frameworks,TRUE,"<p>LLaMA (Large Language Model Meta AI) is developed by Meta for research purposes. More details <a href='https://ai.facebook.com/'>here</a>.</p>"
+<!-- Specialized LLMs //-->
+BLOOM,Assess,languages-and-frameworks,TRUE,"<p>BLOOM is an open LLM developed by Hugging Face, designed for multiple languages and tasks. More info <a href='https://huggingface.co/bigscience/bloom'>here</a>.</p>
+Hugging Face Transformers,Assess,Tools,TRUE,"<p>Hugging Face Transformers provides state-of-the-art general-purpose architectures for natural language understanding and generation. More details <a href='https://huggingface.co/transformers/'>here</a>.</p>"
+OpenAI Codex,Trial,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
+LaMDA,Trial,Tools,TRUE,"<p>LaMDA (Language Model for Dialogue Applications) is developed by Google and optimized for conversational applications. More details <a href='https://www.google.com/'>here</a>.</p>"
+<!-- Multilingual LLMs //-->
+mBERT,Adopt,languages-and-frameworks,TRUE,"<p>mBERT (Multilingual BERT) is a multilingual version of BERT supporting various languages. More info <a href='https://github.com/google-research/bert/blob/master/multilingual.md'>here</a>.</p>"
+XLM-R,Adopt,languages-and-frameworks,TRUE,"<p>XLM-R (XLM-RoBERTa) is a robustly trained multilingual model from Facebook AI. More details <a href='https://arxiv.org/abs/1911.02116'>here</a>.</p>"
+<!-- Generative Models //-->
+DALL-E,Trial,Tools,TRUE,"<p>DALL-E is an AI model developed by OpenAI to generate images from textual descriptions. More details can be found <a href='https://www.openai.com/research/dall-e'>here</a>.</p>"
+MidJourney,Trial,Tools,TRUE,"<p>MidJourney is an AI-based platform for creating artworks from text descriptions. Details <a href='https://www.midjourney.com/'>here</a>.</p>"
+Stable Diffusion,Adopt,Tools,TRUE,"<p>Stable Diffusion is a generative AI model that creates high-quality images from text descriptions. More info <a href='https://stability.ai/'>here</a>.</p>"
+<!-- AI Platforms //-->
+<!-- Cloud AI //-->
+Microsoft Azure AI,Adopt,Platforms,TRUE,"<p>Microsoft Azure AI offers a comprehensive suite of AI tools and services for enterprises. More info <a href='https://azure.microsoft.com/en-us/services/machine-learning/'>here</a>.</p>"
+AWS SageMaker,Adopt,Platforms,TRUE,"<p>AWS SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models quickly. More details <a href='https://aws.amazon.com/sagemaker/'>here</a>.</p>"
+Google Cloud AI,Adopt,Platforms,TRUE,"<p>Google Cloud AI provides powerful tools and services to help developers build, deploy, and scale AI models. More info <a href='https://cloud.google.com/products/ai'>here</a>.</p>"
+IBM Watson,Adopt,Platforms,TRUE,"<p>IBM Watson offers AI and machine learning services to empower businesses with advanced analytics. Learn more <a href='https://www.ibm.com/watson'>here</a>.</p>"
+Oracle Cloud AI,Adopt,Platforms,TRUE,"<p>Oracle Cloud AI provides integrated AI services to help businesses harness the power of AI for various applications. More info <a href='https://www.oracle.com/cloud/ai/'>here</a>.</p>"
+Alibaba Cloud Machine Learning Platform for AI,Adopt,Platforms,TRUE,"<p>Alibaba Cloud's Machine Learning Platform for AI (PAI) offers a suite of tools to build and deploy machine learning models. More details <a href='https://www.alibabacloud.com/product/machine-learning'>here</a>.</p>"
+Tencent Cloud AI,Adopt,Platforms,TRUE,"<p>Tencent Cloud AI provides a range of AI services including natural language processing, computer vision, and speech recognition. More info <a href='https://intl.cloud.tencent.com/solution/ai'>here</a>.</p>"
+Baidu AI Cloud,Adopt,Platforms,TRUE,"<p>Baidu AI Cloud offers comprehensive AI services and tools for various applications such as natural language processing and computer vision. Learn more <a href='https://cloud.baidu.com/product/ai.html'>here</a>.</p>"
+Huawei Cloud AI,Adopt,Platforms,TRUE,"<p>Huawei Cloud AI provides robust AI solutions including model training, deployment, and inferencing services. More details <a href='https://www.huaweicloud.com/intl/en-us/product/ei.html'>here</a>.</p>"
+<!-- Enterprise AI Platforms //-->
+SAP AI,Adopt,Platforms,TRUE,"<p>SAP AI offers integrated AI services to help businesses automate processes and enhance decision-making. More info <a href='https://www.sap.com/products/artificial-intelligence.html'>here</a>.</p>"
+C3.ai,Adopt,Platforms,TRUE,"<p>C3.ai provides a suite of AI-driven applications for enterprises to optimize operations and enhance decision-making. More info <a href='https://c3.ai/'>here</a>.</p>"
+DataRobot,Adopt,Platforms,TRUE,"<p>DataRobot offers an enterprise AI platform that accelerates the development and deployment of machine learning models. Learn more <a href='https://www.datarobot.com/'>here</a>.</p>"
+Cloudera Machine Learning,Adopt,Platforms,TRUE,"<p>Cloudera Machine Learning offers an enterprise platform for building and deploying machine learning models at scale. More details <a href='https://www.cloudera.com/products/machine-learning.html'>here</a>.</p>"
+<!-- Open-Source and Community-Driven Platforms //-->
+H2O.ai,Adopt,Platforms,TRUE,"<p>H2O.ai provides an open-source platform for building and deploying AI models with ease. More info <a href='https://www.h2o.ai/'>here</a>.</p>
+Anaconda,Adopt,Platforms,TRUE,"<p>Anaconda is an open-source distribution of Python and R for scientific computing and machine learning. Learn more <a href='https://www.anaconda.com/'>here</a>.</p>"
+<!-- Data Science and Collaboration Platforms //-->
+Domino Data Lab,Adopt,Platforms,TRUE,"<p>Domino Data Lab provides a platform for data science teams to build and deploy models faster. More info <a href='https://www.dominodatalab.com/'>here</a>.</p>"
+RapidMiner,Adopt,Platforms,TRUE,"<p>RapidMiner offers a data science platform for teams to collaboratively build and deploy machine learning models. More details <a href='https://rapidminer.com/'>here</a>.</p>"
+Alteryx,Adopt,Platforms,TRUE,"<p>Alteryx provides a platform for data analytics and machine learning to help organizations drive insights and automate processes. Learn more <a href='https://www.alteryx.com/'>here</a>.</p>"
 <!-- AI Techniques - Machine Learning, Neural Networking, AI Learning, Natural Language Models //-->
-<!-- Machine Learning //-->
+<!-- Machine Learning Frameworks //-->
+TensorFlow,Adopt,Platforms,TRUE,"<p>TensorFlow is an end-to-end open-source platform for machine learning. For more details, visit <a href='https://www.tensorflow.org/'>TensorFlow</a>.</p>"
+PyTorch,Adopt,Platforms,TRUE,"<p>PyTorch is an open-source machine learning library developed by Facebook's AI Research lab. More information is available <a href='https://pytorch.org/'>here</a>.</p>"
+Scikit-learn,Adopt,Platforms,TRUE,"<p>Scikit-learn is a free software machine learning library for the Python programming language. Learn more <a href='https://scikit-learn.org/'>here</a>.</p>"
+Keras,Adopt,Platforms,TRUE,"<p>Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow. More info <a href='https://keras.io/'>here</a>.</p>"
+XGBoost,Adopt,Platforms,TRUE,"<p>XGBoost is a scalable and efficient gradient boosting framework. Learn more <a href='https://xgboost.readthedocs.io/'>here</a>.</p>"
+<!-- Neural Network Libraries //-->
+Theano,Adopt,Platforms,TRUE,"<p>Theano is a Python library for defining, optimizing, and evaluating mathematical expressions involving multi-dimensional arrays. More details <a href='http://deeplearning.net/software/theano/'>here</a>.</p>"
+Caffe,Adopt,Platforms,TRUE,"<p>Caffe is a deep learning framework made with expression, speed, and modularity in mind. More info <a href='http://caffe.berkeleyvision.org/'>here</a>.</p>"
+MXNet,Adopt,Platforms,TRUE,"<p>MXNet is a deep learning framework designed for both efficiency and flexibility. More details <a href='https://mxnet.apache.org/'>here</a>.</p>"
+Chainer,Adopt,Platforms,TRUE,"<p>Chainer is a flexible framework for neural networks. More information <a href='https://chainer.org/'>here</a>.</p>"
+<!-- AI Learning Platforms //-->
+Google Colab,Adopt,Platforms,TRUE,"<p>Google Colab is a free cloud service with support for GPU acceleration, widely used for machine learning research and development. More info <a href='https://colab.research.google.com/'>here</a>.</p>"
+Microsoft Azure Machine Learning,Adopt,Platforms,TRUE,"<p>Microsoft Azure Machine Learning is a cloud-based environment for training, deploying, and managing machine learning models. More details <a href='https://azure.microsoft.com/en-us/services/machine-learning/'>here</a>.</p>"
+Amazon SageMaker,Adopt,Platforms,TRUE,"<p>Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine learning models at scale. More info <a href='https://aws.amazon.com/sagemaker/'>here</a>.</p>"
+IBM Watson,Adopt,Platforms,TRUE,"<p>IBM Watson is an AI platform offering a suite of tools for data analysis, model training, and deployment. More info <a href='https://www.ibm.com/watson'>here</a>.</p>"
+<!-- Natural Language Processing (NLP) Libraries //-->
+spaCy,Adopt,Platforms,TRUE,"<p>spaCy is an open-source library for advanced NLP in Python. More details <a href='https://spacy.io/'>here</a>.</p>"
+NLTK,Adopt,Platforms,TRUE,"<p>NLTK (Natural Language Toolkit) is a leading platform for building Python programs to work with human language data. More info <a href='https://www.nltk.org/'>here</a>.</p>"Gensim,Adopt,Platforms,TRUE,"<p>Gensim is a library for topic modeling and document similarity analysis. More details <a href='https://radimrehurek.com/gensim/'>here</a>.</p>"
+Stanford NLP,Adopt,Platforms,TRUE,"<p>Stanford NLP is a suite of NLP tools provided by the Stanford NLP Group. More info <a href='https://stanfordnlp.github.io/CoreNLP/'>here</a>.</p>"

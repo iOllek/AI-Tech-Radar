@@ -160,12 +160,8 @@ PromptPal,Trial,Tools,False,"<p>Durchsuchen Sie Prompts und Bots und nutzen Sie 
 WebscrapeAI,Trial,Tools,False,"<p>Scrapen Sie jede Website ohne Code mit AI. Mehr dazu <a href='https://webscrape.ai/'>hier</a>.</p>"
 Interviews Chat,Assess,Tools,False,"<p>Ihr persönlicher Interview-Vorbereitungs- und Copilot. Mehr dazu <a href='https://interviews.chat/'>hier</a>.</p>"
 scale.jobs,Assess,Tools,False,"<p>Stellen Sie einen menschlichen Karriereassistenten für Ihre Jobsuche ein. Mehr dazu <a href='https://scale.jobs/'>hier</a>.</p>"
-AI Wedding Toast,Assess,Tools,False,"<p>Generieren Sie eine personalisierte Hochzeitsrede mit AI. Mehr dazu <a href='https://aiweddingtoast.com/'>hier</a>.</p>"
 Taskbase,Assess,Tools,False,"<p>Virtuelle Assistenten verpackt mit AI-gestützter Software. Mehr dazu <a href='https://taskbase.com/'>hier</a>.</p>"
 fynk,Assess,Tools,False,"<p>AI-gestützte Vertragsmanagement-Software. Mehr dazu <a href='https://fynk.com/'>hier</a>.</p>"
-LooksMax AI,Assess,Tools,False,"<p>Finden Sie heraus, wie attraktiv Sie mit AI sind. Mehr dazu <a href='https://looksmax.ai/'>hier</a>.</p>"
-STRProfitMap,Trial,Tools,False,"<p>Datenanalytik SaaS für Airbnb-Investoren. Mehr dazu <a href='https://strprofitmap.com/'>hier</a>.</p>"
-Glowup AI,Assess,Tools,False,"<p>Finden Sie heraus, wie schön Sie sind. Mehr dazu <a href='https://glowup.ai/'>hier</a>.</p>"
 <!-- LLMs - GPT, Lama, Gemini  //-->
 <!-- General-Purpose LLMs //-->
 GPT-4o,Adopt,languages-and-frameworks,TRUE,"<p>GPT-4o, developed by OpenAI, is an improved version of GPT-4 with enhanced capabilities. More info <a href='https://www.openai.com/research/gpt-4'>here</a>.</p>"

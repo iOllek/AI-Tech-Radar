@@ -170,11 +170,11 @@ MyLooks.AI,Assess,Tools,False,"<p>Finden Sie heraus, wie attraktiv Sie sind und 
 <!-- LLMs - GPT, Lama, Gemini  //-->
 <!-- General-Purpose LLMs //-->
 ChatGPT,Adopt,languages-and-frameworks,TRUE,"<p>Generative AI (GenAI) and large language models (LLMs) can help developers both write and understand code. For example, <a href='https://www.openai.com/research/chatgpt'>ChatGPT</a> is useful for conversational AI applications.</p>"
-GPT-3,Assess,languages-and-frameworks,TRUE,"<p>GPT-3, developed by OpenAI, is one of the most powerful language models available. Details can be found <a href='https://www.openai.com/research/gpt-3'>here</a>.</p>"
-GPT-4,Assess,languages-and-frameworks,TRUE,"<p>GPT-4, developed by OpenAI, is an improved version of GPT-3 with enhanced capabilities. More info <a href='https://www.openai.com/research/gpt-4'>here</a>.</p>"
-Claude,Assess,languages-and-frameworks,TRUE,"<p>Claude, developed by Anthropic, is a large language model focusing on ethical and safe AI development. More info <a href='https://www.anthropic.com/'>here</a>.</p>"
-Gemini,Assess,languages-and-frameworks,TRUE,"<p>Gemini is Google's latest large language model designed for various language tasks. More info <a href='https://www.google.com/'>here</a>.</p>"
-LLaMA,Assess,languages-and-frameworks,TRUE,"<p>LLaMA (Large Language Model Meta AI) is developed by Meta for research purposes. More details <a href='https://ai.facebook.com/'>here</a>.</p>"
+GPT-3,Hold,languages-and-frameworks,TRUE,"<p>GPT-3, developed by OpenAI, is one of the most powerful language models available. Details can be found <a href='https://www.openai.com/research/gpt-3'>here</a>.</p>"
+GPT-4,Adopt,languages-and-frameworks,TRUE,"<p>GPT-4, developed by OpenAI, is an improved version of GPT-3 with enhanced capabilities. More info <a href='https://www.openai.com/research/gpt-4'>here</a>.</p>"
+Claude,Trial,languages-and-frameworks,TRUE,"<p>Claude, developed by Anthropic, is a large language model focusing on ethical and safe AI development. More info <a href='https://www.anthropic.com/'>here</a>.</p>"
+Gemini,Adopt,languages-and-frameworks,TRUE,"<p>Gemini is Google's latest large language model designed for various language tasks. More info <a href='https://www.google.com/'>here</a>.</p>"
+LLaMA,Adopt,languages-and-frameworks,TRUE,"<p>LLaMA (Large Language Model Meta AI) is developed by Meta for research purposes. More details <a href='https://ai.facebook.com/'>here</a>.</p>"
 <!-- Specialized LLMs //-->
 BLOOM,Assess,languages-and-frameworks,TRUE,"<p>BLOOM is an open LLM developed by Hugging Face, designed for multiple languages and tasks. More info <a href='https://huggingface.co/bigscience/bloom'>here</a>.</p>
 Hugging Face Transformers,Assess,Tools,TRUE,"<p>Hugging Face Transformers provides state-of-the-art general-purpose architectures for natural language understanding and generation. More details <a href='https://huggingface.co/transformers/'>here</a>.</p>"
@@ -194,10 +194,10 @@ AWS SageMaker,Adopt,Platforms,TRUE,"<p>AWS SageMaker is a fully managed service 
 Google Cloud AI,Adopt,Platforms,TRUE,"<p>Google Cloud AI provides powerful tools and services to help developers build, deploy, and scale AI models. More info <a href='https://cloud.google.com/products/ai'>here</a>.</p>"
 IBM Watson,Adopt,Platforms,TRUE,"<p>IBM Watson offers AI and machine learning services to empower businesses with advanced analytics. Learn more <a href='https://www.ibm.com/watson'>here</a>.</p>"
 Oracle Cloud AI,Adopt,Platforms,TRUE,"<p>Oracle Cloud AI provides integrated AI services to help businesses harness the power of AI for various applications. More info <a href='https://www.oracle.com/cloud/ai/'>here</a>.</p>"
-Alibaba Cloud Machine Learning Platform for AI,Adopt,Platforms,TRUE,"<p>Alibaba Cloud's Machine Learning Platform for AI (PAI) offers a suite of tools to build and deploy machine learning models. More details <a href='https://www.alibabacloud.com/product/machine-learning'>here</a>.</p>"
-Tencent Cloud AI,Adopt,Platforms,TRUE,"<p>Tencent Cloud AI provides a range of AI services including natural language processing, computer vision, and speech recognition. More info <a href='https://intl.cloud.tencent.com/solution/ai'>here</a>.</p>"
-Baidu AI Cloud,Adopt,Platforms,TRUE,"<p>Baidu AI Cloud offers comprehensive AI services and tools for various applications such as natural language processing and computer vision. Learn more <a href='https://cloud.baidu.com/product/ai.html'>here</a>.</p>"
-Huawei Cloud AI,Adopt,Platforms,TRUE,"<p>Huawei Cloud AI provides robust AI solutions including model training, deployment, and inferencing services. More details <a href='https://www.huaweicloud.com/intl/en-us/product/ei.html'>here</a>.</p>"
+Alibaba Cloud Machine Learning Platform for AI,Trial,Platforms,TRUE,"<p>Alibaba Cloud's Machine Learning Platform for AI (PAI) offers a suite of tools to build and deploy machine learning models. More details <a href='https://www.alibabacloud.com/product/machine-learning'>here</a>.</p>"
+Tencent Cloud AI,Trial,Platforms,TRUE,"<p>Tencent Cloud AI provides a range of AI services including natural language processing, computer vision, and speech recognition. More info <a href='https://intl.cloud.tencent.com/solution/ai'>here</a>.</p>"
+Baidu AI Cloud,Trial,Platforms,TRUE,"<p>Baidu AI Cloud offers comprehensive AI services and tools for various applications such as natural language processing and computer vision. Learn more <a href='https://cloud.baidu.com/product/ai.html'>here</a>.</p>"
+Huawei Cloud AI,Hold,Platforms,TRUE,"<p>Huawei Cloud AI provides robust AI solutions including model training, deployment, and inferencing services. More details <a href='https://www.huaweicloud.com/intl/en-us/product/ei.html'>here</a>.</p>"
 <!-- Enterprise AI Platforms //-->
 SAP AI,Adopt,Platforms,TRUE,"<p>SAP AI offers integrated AI services to help businesses automate processes and enhance decision-making. More info <a href='https://www.sap.com/products/artificial-intelligence.html'>here</a>.</p>"
 C3.ai,Adopt,Platforms,TRUE,"<p>C3.ai provides a suite of AI-driven applications for enterprises to optimize operations and enhance decision-making. More info <a href='https://c3.ai/'>here</a>.</p>"

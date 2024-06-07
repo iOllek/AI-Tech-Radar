@@ -222,5 +222,6 @@ Amazon SageMaker,Adopt,Techniques,TRUE,"<p>Amazon SageMaker is a fully managed s
 IBM Watson,Adopt,Techniques,TRUE,"<p>IBM Watson is an AI platform offering a suite of tools for data analysis, model training, and deployment. More info <a href='https://www.ibm.com/watson'>here</a>.</p>"
 <!-- Natural Language Processing (NLP) Libraries //-->
 spaCy,Trial,Techniques,TRUE,"<p>spaCy is an open-source library for advanced NLP in Python. More details <a href='https://spacy.io/'>here</a>.</p>"
-NLTK,Assess,Techniques,TRUE,"<p>NLTK (Natural Language Toolkit) is a leading platform for building Python programs to work with human language data. More info <a href='https://www.nltk.org/'>here</a>.</p>"Gensim,Adopt,Platforms,TRUE,"<p>Gensim is a library for topic modeling and document similarity analysis. More details <a href='https://radimrehurek.com/gensim/'>here</a>.</p>"
+NLTK,Assess,Techniques,TRUE,"<p>NLTK (Natural Language Toolkit) is a leading platform for building Python programs to work with human language data. More info <a href='https://www.nltk.org/'>here</a>.</p>"
+Gensim,Adopt,Platforms,TRUE,"<p>Gensim is a library for topic modeling and document similarity analysis. More details <a href='https://radimrehurek.com/gensim/'>here</a>.</p>"
 Stanford NLP,Adopt,Techniques,TRUE,"<p>Stanford NLP is a suite of NLP tools provided by the Stanford NLP Group. More info <a href='https://stanfordnlp.github.io/CoreNLP/'>here</a>.</p>"

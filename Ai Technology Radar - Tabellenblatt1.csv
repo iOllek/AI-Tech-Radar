@@ -169,7 +169,7 @@ Claude,Trial,languages-and-frameworks,TRUE,"<p>Claude, developed by Anthropic, i
 Gemini,Adopt,languages-and-frameworks,TRUE,"<p>Gemini is Google's latest large language model designed for various language tasks. More info <a href='https://www.google.com/'>here</a>.</p>"
 LLaMA,Adopt,languages-and-frameworks,TRUE,"<p>LLaMA (Large Language Model Meta AI) is developed by Meta for research purposes. More details <a href='https://ai.facebook.com/'>here</a>.</p>"
 <!-- Specialized LLMs //-->
-BLOOM,Assess,languages-and-frameworks,TRUE,"<p>BLOOM is an open LLM developed by Hugging Face, designed for multiple languages and tasks. More info <a href='https://huggingface.co/bigscience/bloom'>here</a>.</p>
+BLOOM,Assess,languages-and-frameworks,TRUE,"<p>BLOOM is an open LLM developed by Hugging Face, designed for multiple languages and tasks. More info <a href='https://huggingface.co/bigscience/bloom'>here</a>.</p>"
 Hugging Face Transformers,Assess,Tools,TRUE,"<p>Hugging Face Transformers provides state-of-the-art general-purpose architectures for natural language understanding and generation. More details <a href='https://huggingface.co/transformers/'>here</a>.</p>"
 OpenAI Codex,Hold,Tools,TRUE,"<p>OpenAI Codex is a descendant of GPT-3, specialized for programming tasks. Learn more <a href='https://www.openai.com/research/codex'>here</a>.</p>"
 LaMDA,Trial,Tools,TRUE,"<p>LaMDA (Language Model for Dialogue Applications) is developed by Google and optimized for conversational applications. More details <a href='https://blog.google/technology/ai/lamda/'>here</a>.</p>"

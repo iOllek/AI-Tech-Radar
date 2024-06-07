@@ -134,7 +134,7 @@ ReportGPT,Trial,Tools,False,"<p>ReportGPT hebt Ihre Dokumenterstellung auf ein n
 Recurrr,Assess,Tools,False,"<p>Recurrr ermöglicht das Versenden wiederkehrender E-Mails. Mehr dazu <a href='https://recurrr.com/'>hier</a>.</p>"
 <!-- Search Engine Tools //-->
 GoodListen,Assess,Tools,False,"<p>GoodListen hilft Ihnen, Ihren nächsten Podcast mit AI zu finden. Eine AI-gesteuerte App zur Audioverständnis. Mehr dazu <a href='https://goodlisten.ai/'>hier</a>.</p>"
-Ask Anything (by Perplexity),Adopt,Tools,False,"<p>Ask Anything von Perplexity kombiniert große Sprachmodelle mit Suchmaschinen zur Beantwortung von Fragen. Mehr dazu <a href='https://www.perplexity.ai/'>hier</a>.</p>"
+Perplexity,Adopt,Tools,False,"<p>Perplexity kombiniert große Sprachmodelle mit Suchmaschinen zur Beantwortung von Fragen und ist insbesondere beim Coden hilfreich. Mehr dazu <a href='https://www.perplexity.ai/'>hier</a>.</p>"
 Bird SQL (by Perplexity),Assess,Tools,False,"<p>Bird SQL von Perplexity bietet AI-gestützte Suche für Twitters Soziales Graph. Mehr dazu <a href='https://www.perplexity.ai/bird-sql'>hier</a>.</p>"
 Metaphor,Assess,Tools,False,"<p>Metaphor ist ein System zur Internetsuche mit großen Sprachmodellen. Mehr dazu <a href='https://metaphor.systems/'>hier</a>.</p>"
 Rewind,Assess,Tools,False,"<p>Rewind ist eine Suchmaschine für Ihr Leben. Mehr dazu <a href='https://rewind.ai/'>hier</a>.</p>"

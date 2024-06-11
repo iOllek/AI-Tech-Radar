@@ -633,6 +633,308 @@ featured: true
 Hydra is an open source Snowflake alternative that transforms Postgres into a fast, scalable data warehouse. With Hydra, engineers can standardize both transactional and analytics workloads around the familiar Postgres syntax, tools, and ecosystem without app code changes. Hydra offers a fully managed cloud instance with columnar storage with high throughput writes. Hydra was founded in 2021 and is based in San Francisco, California.
 [Hydra](https://www.hydra.so/)
 
+<!-- Streaming/In-Memory //-->
+
+title: "AWS Amazon Kinesis"
+ring: adopt
+quadrant: Infrastructure
+tags: [Streaming/In-Memory][AWS]
+featured: true
+---
+
+Amazon Web Services (AWS) is a business unit within Amazon.com that provides an infrastructure platform for businesses in the form of cloud computing.
+[AWS Amazon Kinesis](https://aws.amazon.com/de/kinesis/)
+
+title: "Google Cloud Dataflow"
+ring: adopt
+quadrant: Infrastructure
+tags: [Streaming/In-Memory][Google]
+featured: true
+---
+
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
+[Google Cloud Dataflow](https://cloud.google.com/dataflow)
+
+title: "Confluent"
+ring: assess
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Confluent (NASDAQ: CFLT) provides an Apache Kafka-based streaming platform for enterprises in industries such as retail, logistics, manufacturing, financial services, technology, and media to maximize the value of their data. Confluent Platform lets enterprises move data from isolated systems into a real-time data pipeline where they can act on it immediately.
+[Confluent](https://www.confluent.io/)
+
+title: "Databricks"
+ring: adopt
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Databricks provides a data platform that aims to simplify data integration and offers data analytic services. Databricks Lakehouse Platform serves corporations in various industries worldwide. It was founded in 2013 and is based in San Francisco, California.
+[Databricks](https://www.databricks.com/)
+
+title: "Oracle Coherence"
+ring: adopt
+quadrant: Infrastructure
+tags: [Streaming/In-Memory][Oracle]
+featured: true, false
+---
+
+Oracle operates as an enterprise software company. It offers a variety of software products, including enterprise resource planning (ERP), customer relationship management (CRM), human capital management (HCM), and more. It serves industries such as automotive, consumer goods, and energy among others. It was founded in 1977 and is based in Austin, Texas.
+[Oracle Coherence](https://www.oracle.com/java/coherence/)
+
+title: "SAP HANA Cloud"
+ring: adopt
+quadrant: Infrastructure
+tags: [Streaming/In-Memory][SAP]
+featured: true
+---
+
+SAP (FWB: SAP) (NYSE: SAP) is a multinational software corporation that makes enterprise software to manage business operations and customer relations.
+[SAP HANA Cloud](https://www.sap.com/products/technology-platform/hana.html)
+
+title: "RedPanda"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Redpanda, fka Vectorized, delivers enterprises with a modern data-streaming platform for mission-critical applications. The company is building a family of products designed to reliably transform data streams into data products by unifying historical and real-time data, enabling inline Lambda transformations, all exposed under a drop-in Kafka-API replacement.
+[RedPanda](https://redpanda.com/)
+
+title: "Hazelcast"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Hazelcast develops, distributes, and supports open source In-Memory Data Grid. Hazelcast's computing platform is comprised of two core products: Hazelcast IMDG, an in-memory data grid, and Hazelcast Jet, an application embeddable, stream and batch processing engine capable of supporting real-time streaming data.
+[Hazelcast](https://hazelcast.com/)
+
+title: "Decodable"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Decodable, founded in 2021, specializes in the development of a data engineering platform. The platform enables applications and data engineers to build data pipelines to process and deliver data to offline and online systems. The company is based in San Francisco.
+[Decodable](https://www.decodable.co/)
+
+title: "Striim"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Striim is an end-to-end streaming integration and intelligence platform. Striim specializes in multi-stream data integration and real-time Change Data Capture (CDC) across a wide variety of data sources including transaction/change data, events, log files, application and IoT sensor data. With data pipelines in-place, the Striim platform makes streaming analytics easy. Enterprises can detect anomalies, identify and visualize events of interest, and trigger alerts and workflows  all in-time and in-context.
+[Striim](https://www.striim.com/)
+
+title: "Estuary"
+ring: hold
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Estuary is a database software company that specializes in linking to both internal and external systems, integrating real-time batch operations, and allowing clients to stream data, including internal services, apps, or external SaaS. It is based in New York, New York.
+[Estuary](https://estuary.dev/)
+
+title: "Gigaspaces"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+GigaSpaces Technologies provides software middleware for deployment, management and scaling of mission-critical applications on cloud environments through two main product lines, XAP In-Memory Computing and Cloudify. Hundreds of Tier-1 organizations worldwide are leveraging GigaSpaces' technology to enhance IT efficiency and performance, from top financial firms, e-commerce companies, online gaming providers, healthcare organizations and telecom carriers.
+[Gigaspaces](https://www.gigaspaces.com/)
+
+title: "GridGain"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true, false
+---
+
+GridGain is focused on real-time data access and processing by offering the enterprise-grade In-Memory Data Fabric built on Apache Ignite. The solution is used by global enterprises in financial, tech, retail, healthcare and other major sectors. GridGain solutions connect traditional and emerging data stores (SQL, NoSQL, and Hadoop) with cloud-scale applications and enable massive data throughput and ultra-low latencies across a scalable cluster of commodity servers. A converged data platform, GridGain In-Memory Data Fabric offers a comprehensive, enterprise-grade in-memory computing solution for high-volume transactions, real-time analytics and hybrid data processing.
+[GridGain](https://www.gridgain.com/)
+
+title: "MotherDuck"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Mother Duck delivers a serverless data analytics platform for data. The platform offers a serverless analytics service built for lightweight use cases. It is built on the open-source platform DuckDB, an in-process online analytical processing database. The company was founded in 2022 and is based in San Fransico, California.
+[MotherDuck](https://motherduck.com/)
+
+title: "Meroxa"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Meroxa makes real-time data infrastructure accessible to any company regardless of expertise or available resource.
+[Meroxa](https://meroxa.com/)
+
+title: "Voltron Data"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Voltron Data is a remote company that connects data, hardware, and developers, as well as focuses on improving the Apache Arrow Ecosystem. The company is based in Mountain View, California.
+[Voltron Data](https://voltrondata.com/theseus.html)
+
+title: "DeltaStream"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+DeltaStream provides a serverless database to manage, secure and process streams. The firm's product allows users to build real-time streaming applications and pipelines with SQL in minutes. The firm was founded in 2020 and is based in San Mateo, California.
+[DeltaStream](https://www.deltastream.io/)
+
+title: "Tinybird"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Tinybird helps data teams build real-time data products at scale through SQL-based API endpoints. It ingests millions of rows per second and serves low latency, high concurrency analytical queries over any amount of data. It was founded in 2019 and is based in Madrid, Spain.
+[Tinybird](https://www.tinybird.co/)
+
+title: "StreamNative"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+StreamNative develops an event streaming platform that aims to enable companies to leverage enterprise data as real-time event streams to develop and launch new products and services.
+[StreamNative](https://streamnative.io/)
+
+title: "Conduktor"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Conduktor is a computer software company. It helps companies operate their data using Apache Kafka. It is based in Jackson, Wyoming.
+[Conduktor](https://www.conduktor.io/)
+
+title: "Aiven"
+ring: assess
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Aiven offers a managed cloud service that hosts software infrastructure services. It provides managed open-source data technologies, like PostgreSQL, Kafka, and OpenSearch, on all major clouds, allowing developers to create applications. The company was founded in 2016 and is based in Helsinki, Finland.
+[Aiven](https://aiven.io/)
+
+title: "Upsolver"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Upsolver develops a cloud architecture for NoSQL databases. Upsolver NoSQL DB stores data in the cloud instead of local servers, and its platform works on data streams and offers unique algorithms and aggregation functions.
+[Upsolver](https://www.upsolver.com/)
+
+title: "Quix"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Quix is a company that focuses on data engineering platforms, specifically in the event streaming domain. The company offers a platform that enables developers to build, test, and deploy real-time models and services directly on Kafka, simplifying the process of working with live data. Quix primarily serves sectors such as video game, media, manufacturing, automotive, and telco industries. It was founded in 2020 and is based in London, England.
+[Quix](https://www.quix.io/)
+
+title: "Ververica"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Ververica is an enterprise stream processing platform that provides multi-tenancy, authentication, role-based access control, and auto-scaling for Apache Flink. The company offers solutions such as event-driven applications, fraud detection, machine learning, and more. The company was founded in 2014 and is based in Berlin, Germany.
+[Ververica](https://www.ververica.com/)
+
+title: "RisingWave Labs"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+RisingWave Labs provides a cloud-native streaming database that maintains storage and allows users to access data efficiently. It uses SQL as the interface, consumes streaming data, and performs incremental computations. The company was founded in 2021 and is based in San Francisco, California.
+[RisingWave Labs](https://risingwave.com/)
+
+title: "Bytewax"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Bytewax, founded in 2020, develops a serverless machine learning platform o let data scientists and machine learning engineers build and scale ML-powered features. The company's platform allows users to build custom pipelines to transform data and make predictions in real-time, run the software locally to speed up development, and build complex workflows. It is based in Santa Cruz, California.
+[Bytewax](https://www.bytewax.io/)
+
+title: "Arcion"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Arcion offers a cloud-native, real-time data mobility platform. It enables data teams to build zero-maintenance data pipelines in minutes.
+[Arcion](https://www.databricks.com/solutions/data-engineering)
+
+title: "Ably"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Ably is a realtime data delivery platform that allows users to add realtime messaging and streaming data to applications.
+[Ably](https://ably.com/)
+
+title: "InfinyOn"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+InfinyOn is a company focused on data streaming, operating in the technology and data analytics industry. The company offers a platform that enables engineers to build robust event-driven data pipelines for various functions such as log processing, data enrichment, IoT edge processing, clickstream analytics, and real-time microservices. The platform is primarily used in sectors such as ecommerce, real estate tech, and cloud computing. It was founded in 2019 and is based in Saratoga, California
+[InfinyOn](https://infinyon.com/)
+
+title: "Artie"
+ring: trial
+quadrant: Infrastructure
+tags: [Streaming/In-Memory]
+featured: true
+---
+
+Artie specializes in real-time data replication, focusing on the synchronization of databases to data warehouses. The company offers a platform that enables high-volume data transfer with low latency, using change data capture (CDC) and stream processing to replicate data. Its solutions cater to data and engineering teams, providing tools for real-time analytics. The company was founded in 2023 and is based in San Francisco, California.
+[Artie](https://www.artie.com/)
+
 <!-- Applications //-->
 
 <!-- Analytics //-->

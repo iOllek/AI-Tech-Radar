@@ -471,6 +471,168 @@ featured: true
 IOMETE is a data management company specializing in modern data lakehouse solutions. Their offerings include a platform that integrates various data processing tools and services, such as Apache Iceberg and Apache Spark, to provide scalable, secure, and efficient data management for AI and analytics. IOMETE's solutions cater to a diverse range of sectors including financial institutions, healthcare, public sector, and data resellers. It was founded in 2020 and is based in Mountain View, California
 [Iomete](https://iomete.com/)
 
+<!-- Data Warehouse  //-->
+
+title: "AWS Amazon RedShift"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Warehouse][AWS]
+featured: true
+---
+
+Amazon Web Services (AWS) is a business unit within Amazon.com that provides an infrastructure platform for businesses in the form of cloud computing.
+[AWS Amazon RedShift](https://aws.amazon.com/de/redshift/)
+
+title: "Snowflake"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Snowflake (NYSE: SNOW) provides a cloud data warehouse enabling enterprises to access structured and semi-structured data.
+[Snowflake](https://www.snowflake.com/en/)
+
+title: "Google Cloud BigQuery"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Warehouse][Google]
+featured: true
+---
+
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
+[Google Cloud BigQuery](https://cloud.google.com/bigquery)
+
+title: "Azure Synapse Analytics"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Warehouse][Microsoft]
+featured: true
+---
+
+Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
+[Azure Synapse Analytics](https://azure.microsoft.com/en-us/products/synapse-analytics/#overview)
+
+title: "Oracle Exadata Cloud Service"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Warehouse][Oracle]
+featured: true
+---
+
+Oracle operates as an enterprise software company. It offers a variety of software products, including enterprise resource planning (ERP), customer relationship management (CRM), human capital management (HCM), and more. It serves industries such as automotive, consumer goods, and energy among others. It was founded in 1977 and is based in Austin, Texas.
+[Oracle Exadata Cloud Service](https://docs.oracle.com/en-us/iaas/exadatacloud/exacs/exadata-cloud-infrastructure-overview.html)
+
+title: "Firebolt"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Firebolt aims to redesign the concept of a data warehouse to work more efficiently and at a lower cost.
+[Firebolt](https://www.firebolt.io/)
+
+title: "VMWare Greenplum"
+ring: assess
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+VMware (NYSE: VMW) is a cloud computing and virtualization technology company that enables organizations to build, run, manage and secure their apps across clouds. It serves the banking, healthcare, government, retail, telecommunications, manufacturing, and transportation industries. The company was founded in 1998 and is based in Palo Alto, California.
+[VMWare Greenplum](https://tanzu.vmware.com/greenplum)
+
+title: "IBM Db2 Warehouse"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Warehouse][IBM]
+featured: true
+---
+
+IBM (NYSE: IBM) manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services in areas ranging from mainframe computers to nanotechnology. The company was founded in 1911 and is based in Armonk, Newyork.
+[IBM Db2 Warehouse](https://www.ibm.com/products/db2-warehouse)
+
+title: "Kyligence"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Kyligence is an enterprise-level data warehouse product based on a big data platform. The company empowers sub-second query latency on big data and simplifies data analytics for business users, analysts and engineers.
+[Kyligence](https://kyligence.io/)
+
+title: "Yellowbrick"
+ring: assess
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Yellowbrick Data Warehouse is a modern, elastic data warehouse with separate storage and compute that runs in the cloud and on-premises. Yellowbrick enables large-scale enterprises to eliminate complexity, reduce risk, and predict and control costs by running all their data anywhere, across multi-cloud instances. Yellowbrick allows enterprises to run complex queries on live data at a petabyte scale in their own cloud account while supporting high concurrency with fast, interactive query responses to customers' most challenging business questions. Yellowbrick Data was founded in 2014 and is headquartered in Mountain View, California.
+[Yellowbrick](https://yellowbrick.com/)
+
+title: "Tabular"
+ring: hold
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Tabular is a cloud-native data platform designed to automate maintenance and optimization of data. It was founded in 2021 and is based in San Jose, California.
+[Tabular](https://tabular.io/)
+
+title: "StarRocks"
+ring: hold
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+StarRocks offers real-time SQL engines for enterprise-scale analytics. It was founded in 2020 and is based in San Francisco, California.
+[StarRocks](https://www.starrocks.io/)
+
+title: "Panoply by SQream"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Panoply develops a cloud data platform enabling users to synchronize, store, and access data. It facilitates solution-unlocking analysis without data engineering. Its platform offers business data synchronization, managed extract, transform, and load connectors, cloud data storage, and built-in analytics features. It was founded in 2015 and is based in Tel Aviv, Israel. In December 2021, Panoply was acquired by SQream Technologies.
+[Panoply](https://panoply.io/)
+
+title: "SelectDB"
+ring: hold
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+SelectDB focuses on modern data warehousing for real-time analysis, operating in the data management and analytics industry. The company offers fully managed cloud-native services and self-managed private deployment services for real-time data warehousing, providing rapid query analysis on large-scale real-time data. It primarily serves sectors such as the financial industry, internet companies, manufacturing, enterprise services, and telecommunications. It was founded in 2021 and is based in Haidian, China.
+[SelectDB](https://en.selectdb.com/)
+
+title: "Ocient"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Ocient enables organizations to explore and interact with hyperscale data sets to deliver meaningful insights and drive customer innovation. The company offers a hyperscale enterprise data warehouse platform that enables rapid transformation and analysis of massive (petabyte)-scale data. The company was founded in 2016 and is based in Chicago, Illinois.
+[Ocient](https://ocient.com/)
+
+title: "Hydra"
+ring: hold
+quadrant: Infrastructure
+tags: [Data Warehouse]
+featured: true
+---
+
+Hydra is an open source Snowflake alternative that transforms Postgres into a fast, scalable data warehouse. With Hydra, engineers can standardize both transactional and analytics workloads around the familiar Postgres syntax, tools, and ecosystem without app code changes. Hydra offers a fully managed cloud instance with columnar storage with high throughput writes. Hydra was founded in 2021 and is based in San Francisco, California.
+[Hydra](https://www.hydra.so/)
+
 <!-- Applications //-->
 
 <!-- Analytics //-->

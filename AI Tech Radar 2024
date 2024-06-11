@@ -2,7 +2,7 @@
 ---
 title: "Beispiel"
 ring: adopt, assess, trial, hold
-quadrant: applications, ai-&-ml-platforms, infrastructure, analytics
+quadrant: Applications, Ai-&-Ml-Platforms, Infrastructure, Analytics
 tags: [tags]
 featured: true, false
 ---
@@ -13,9 +13,281 @@ Text goes here. You can use **markdown** here.
 
 ------------------------------------------------------------
 
-
-
 <!-- Infrastructure //-->
+
+<!-- Storage //-->
+
+title: "Amazon S3"
+ring: adopt
+quadrant: Infrastructure
+tags: [Storage][AWS]
+featured: true
+---
+
+Amazon Web Services (AWS) is a business unit within Amazon.com that provides an infrastructure platform for businesses in the form of cloud computing.
+[Amazon S3](https://aws.amazon.com/de/s3/)
+
+title: "Azure Storage"
+ring: adopt
+quadrant: Infrastructure
+tags: [Storage][Azure]
+featured: true
+---
+
+Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
+[Azure Storage](https://azure.microsoft.com/en-us/products/category/storage/)
+
+title: "Google Cloud Storage"
+ring: adopt
+quadrant: Infrastructure
+tags: [Storage][Google]
+featured: true
+---
+
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
+[Google Cloud Storage](https://cloud.google.com/storage)
+
+title: "IBM Storage"
+ring: assess
+quadrant: Infrastructure
+tags: [Storage][IBM]
+featured: true
+---
+
+IBM (NYSE: IBM) manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services in areas ranging from mainframe computers to nanotechnology. The company was founded in 1911 and is based in Armonk, Newyork.
+[IBM Storage](https://www.ibm.com/storage)
+
+title: "Digital Ocean Spaces"
+ring: assess
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+DigitalOcean (NYSE: DOCN) offers a software-as-a-service (SaaS) based platform. It offers a range of services such as website hosting, cloud virtual private network (VPN), big data computing, gaming development, and blockchain development. It provides solutions for digital marketing agencies, e-commerce businesses, and more. The company was founded in 2012 and is based in New York, New York.
+[Digital Ocean Spaces](https://www.digitalocean.com/products/spaces)
+
+title: "Pure Storage"
+ring: assess
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Pure Storage, the all-flash enterprise storage company, enables the broad deployment of flash in the data center. When compared to traditional disk-centric arrays, Pure Storage all-flash enterprise arrays are 10x faster and 10x more space and power efficient at a price point that is less than performance disk per gigabyte stored. The Pure Storage FlashArray is ideal for high performance workloads, including server virtualization, desktop virtualization (VDI), database (OLTP, real-time analytics) and cloud computing. The company was founded in 2009 and is based in Mountain View, California.
+[Pure Storage](https://www.purestorage.com/)
+
+title: "NetApp"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+NetApp (NASDAQ: NTAP) provides data storage and data management solutions. It offers a variety of cloud data services, including cloud storage, cloud backup, cloud disaster recovery, and more. It serves industries such as healthcare, financial services, manufacturing, and more. It was founded in 1992 and is based in San Jose, California.
+[NetApp](https://www.netapp.com/)
+
+title: "Wasabi"
+ring: assess
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Wasabi provides a cloud storage platform that supports hot data, active archive cool data, and inactive archive cool data, with integrations for gateways, apps, and third-party platforms. It enables organizations to store and instantly access an unlimited amount of data with no tiers or unpredictable egress fees. It was formerly known as BlueArchive. The firm was founded in 2015 and is based in Boston, Massachusetts.
+[Wasabi](https://wasabi.com/)
+
+title: "Vast Data"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+VAST Data is an IT infrastructure company. Its exabyte-scale Universal Storage system is built entirely from high-performance flash media and has several features that result in a total cost of acquisition that is equivalent to hard drive-based archive systems.
+[Vast Data](https://www.vastdata.com/)
+
+title: "Egnyte"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Egnyte provides software for enterprise file synchronization and sharing. The technology offers to store files in a company's existing data repository, as well as cloud computing storage. It was founded in 2008 and is based in Mountain View, California.
+[Egnyte](https://www.egnyte.com/)
+
+title: "Alluxio"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Alluxio is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks. Alluxio leverages lineage information and using memory aggressively. Tachyon caches working set files in memory, thereby avoiding disk to load datasets that are frequently read. This enables different jobs/queries and frameworks to access cached files at memory speed.
+[Alluxio](https://www.alluxio.io/)
+
+title: "HPE Nimble Storage"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Hewlett Packard Enterprise (NYSE: HPE) provides information technology solutions. The Company offers enterprise security, information technology infrastructure, analytics and data management, applications development and testing, data center care, cloud consulting, and business process services. Hewlett Packard Enterprise serves customers worldwide.
+[HPE Nimble Storage](https://www.hpe.com/us/en/services/nimble-storage.html)
+
+title: "Panasas"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Panasas, a provider in high performance parallel storage for technical computing applications and big data workloads, enables customers to rapidly solve complex computing problems, speed innovation and accelerate new product introduction. All Panasas storage products leverage the PanFS storage operating system to deliver superior performance, data protection, scalability and manageability. Panasas systems are optimized for demanding storage environments in the bioscience, energy, finance, government, manufacturing, and university markets.
+[Panasas](https://www.vdura.com/)
+
+title: "Qumulo"
+ring: assess
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Qumulo, headquartered in Seattle, has developed data-aware scale-out NAS, which enables enterprises to manage and store enormous numbers of digital assets by building real-time analytics directly into the file system itself. Qumulo Core is a software-only solution designed to leverage the price/performance of commodity hardware coupled with the modern technologies of flash, virtualization, and cloud.
+[Qumulo](https://qumulo.com/)
+
+title: "Cohesity"
+ring: assess
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Cohesity is a late-stage technology firm that develops an intelligent data platform that converges secondary storage workflows to transform disparate silos of data into business insight. Cohesity provides secondary storage services for data protection, development, and analytics by applying a distributed, web-scale architecture to break down these data silos. The firm serves a wide variety of industries including healthcare, telecom, technology, and IT. The firm was founded in 2013 and is based in San Jose, California.
+[Cohesity](https://www.cohesity.com/)
+
+title: "Clumio"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Clumio is a secure, backup as a service that consolidates the protection of an enterprise data center and any remote sites with no hardware or software to size, configure, manage - or even buy at all.
+[Clumio](https://clumio.com/)
+
+title: "Weka"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Weka offers a shared parallel file system, WekaFS, which leapfrogs legacy storage infrastructure. It helps tackle demanding storage performance challenges in data-intensive technical computing environments, so customers can solve problems. Its WekaFS accelerates time-to-insight from data and helps customers get high-powered IT investments. It was formerly known as WekaIO. The company was founded in 2013 and is based in Campbell, California.
+[Weka](https://www.weka.io/)
+
+title: "MinIO"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Minio provides open source object storage for cloud-native and containerized applications.
+[MinIO](https://min.io/)
+
+title: "Backblaze"
+ring: hold
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Backblaze (NASDAQ: BLZE) is a data storage provider. It offers two products: B2 Cloud Storage - An object storage service similar to Amazon's S3. Computer Backup - An online backup tool that allows Windows and macOS users to back up their data to offsite data centers.
+[Backblaze](https://www.backblaze.com/docs/cloud-storage-s3-compatible-api)
+
+title: "Cloudflare"
+ring: trial
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Cloudflare offers services to help companies reduce latencies, including distributed denial of service (DDoS) attack mitigation and a content delivery network (CDN). The company uses technology to solve problems over the internet. Cloudflare was founded in 2009 and is based in San Franciso, California.
+[Cloudflare](https://www.cloudflare.com/developer-platform/r2/)
+
+title: "Tigris"
+ring: hold
+quadrant: Infrastructure
+tags: [Storage]
+featured: true
+---
+
+Tigris is a provider of S3-compatible object storage services within the cloud computing industry. The company offers a platform for developers to store and access any amount of data with low latency, catering to a variety of use cases such as cloud-native and mobile applications. It primarily serves sectors that require real-time data access and storage, such as cloud-native applications and mobile app development. It was founded in 2021 and is based in Sunnyvale, California.
+[Tigris](https://www.tigrisdata.com/)
+
+<!-- MPP DBs //-->
+
+title: "Teradata"
+ring: adopt
+quadrant: Infrastructure
+tags: [MPP DBs]
+featured: true
+---
+
+Teradata provides analytic data platforms, marketing and analytic applications, and consulting services. Teradata helps organizations collect, integrate, and analyze all of their data so they can know more about their customers and business.
+[Teradata](https://www.teradata.com/)
+
+title: "Vertica, An OpenText Company"
+ring: trial
+quadrant: Infrastructure
+tags: [MPP DBs]
+featured: true
+---
+
+Vertica Systems is developing an analytics database management software company. Vertica makes SQL database management software designed to derive business intelligence from complex and large sets of data, in real-time.
+[Vertica](https://www.opentext.com/products/vertica-data-platform)
+
+title: "IBM Data Warehouse Solutions"
+ring: adopt
+quadrant: Infrastructure
+tags: [MPP DBs][IBM]
+featured: true
+---
+
+IBM (NYSE: IBM) manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services in areas ranging from mainframe computers to nanotechnology. The company was founded in 1911 and is based in Armonk, Newyork.
+[IBM Data Warehouse Solutions](https://www.ibm.com/data-warehouse)
+
+title: "Actian"
+ring: trial
+quadrant: Infrastructure
+tags: [MPP DBs]
+featured: true
+---
+
+Actian is a computer software company that enables organizations to transform big data into business value with data management solutions to transact, connect, analyze and act on data. Actian helps customers worldwide take action on their big data with Vectorwise analytics database, RushAnalytics Hadoop accelerator, DataCloud for cloud and on-premises data integration, Action Apps, as well as Ingres, Versant and PSQL transactional mission-critical databases.
+[Actian](https://www.actian.com/)
+
+title: "Exasol"
+ring: trial
+quadrant: Infrastructure
+tags: [MPP DBs]
+featured: true
+---
+
+Exasol develops an in-memory database for analytics and data warehousing, and offers expertise in data insight and analytics. The in-memory analytic database combines in-memory, columnar compression and massively parallel processing. The company was founded in 2000 and is based in Nuremberg, Germany.
+[Exasol](https://www.exasol.com/)
+
+title: "Greenplum Database"
+ring: trial
+quadrant: Infrastructure
+tags: [MPP DBs]
+featured: true
+---
+
+Greenplum Database is a company focused on providing a massively parallel data platform (MPP) for analytics, machine learning, and artificial intelligence (AI) within the database software industry. The company offers an open-source database that scales analytics to large datasets in the petabytes, supports complex applications, and integrates with various data sources and storage options. Greenplum's platform is designed to serve sectors that require large-scale data workloads and advanced analytical capabilities. It was founded in 2003 and is based in San Mateo, California.
+[Greenplum Database](https://gitlab.org)
 
 <!-- Applications //-->
 

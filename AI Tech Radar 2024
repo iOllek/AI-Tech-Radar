@@ -289,6 +289,188 @@ featured: true
 Greenplum Database is a company focused on providing a massively parallel data platform (MPP) for analytics, machine learning, and artificial intelligence (AI) within the database software industry. The company offers an open-source database that scales analytics to large datasets in the petabytes, supports complex applications, and integrates with various data sources and storage options. Greenplum's platform is designed to serve sectors that require large-scale data workloads and advanced analytical capabilities. It was founded in 2003 and is based in San Mateo, California.
 [Greenplum Database](https://gitlab.org)
 
+<!-- Data Lakes/Lakehouses //-->
+
+title: "Dremio"
+ring: assess
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Dremio provides a data analytics platform that allows business users to curate precisely the data they need, from any data source, then accelerate analytical processing for BI tools, machine learning, data science, and SQL clients. The company was founded in 2015 and is based in Santa Clara, California.
+[Dremio](https://www.dremio.com/)
+
+title: "Databricks"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Databricks provides a data platform that aims to simplify data integration and offers data analytic services. Databricks Lakehouse Platform serves corporations in various industries worldwide. It was founded in 2013 and is based in San Francisco, California.
+[Databricks](https://www.databricks.com/)
+
+title: "Snowflake"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Snowflake (NYSE: SNOW) provides a cloud data warehouse enabling enterprises to access structured and semi-structured data.
+[Snowflake](https://www.snowflake.com/en/)
+
+title: "Starburst"
+ring: assess
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Starburst is an analytics anywhere company. It provides a distributed SQL query engine. With the ability to connect to a wide variety of data sources, companies use Presto to power large-scale, interactive analytics without the need to move their data. Starburst was previously known as Project Flex. The company was founded in 2017 and is based in Boston, Massachusetts.
+[Starburst](https://www.starburst.io/)
+
+title: "Azure HD Insight"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][Microsoft]
+featured: true
+---
+
+Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
+[Azure HD Insight](https://azure.microsoft.com/en-us/products/hdinsight/)
+
+title: "Azure Data Lake Storage"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][Microsoft]
+featured: true
+---
+
+Microsoft Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
+[Azure Data Lake Storage](https://azure.microsoft.com/en-us/products/storage/data-lake-storage)
+
+title: "Google Cloud Dataproc"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][Google]
+featured: true
+---
+
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
+[Google Cloud Dataproc](https://cloud.google.com/dataproc)
+
+title: "Google Cloud BigLake"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][Google]
+featured: true
+---
+
+Google Cloud Platform, offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
+[Google Cloud BigLake](https://cloud.google.com/biglake?hl=en)
+
+title: "AWS Amazon EMR"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][AWS]
+featured: true
+---
+
+Amazon Web Services (AWS) is a business unit within Amazon.com that provides an infrastructure platform for businesses in the form of cloud computing.
+[AWS Amazon EMR](https://aws.amazon.com/de/emr/)
+
+title: "AWS Lake Formation"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][AWS]
+featured: true
+---
+
+Amazon Web Services (AWS) is a business unit within Amazon.com that provides an infrastructure platform for businesses in the form of cloud computing.
+[AWS Lake Formation](https://aws.amazon.com/de/lake-formation/)
+
+title: "IBM Data Lake Solutions"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses][IBM]
+featured: true
+---
+
+IBM (NYSE: IBM) manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services in areas ranging from mainframe computers to nanotechnology. The company was founded in 1911 and is based in Armonk, Newyork.
+[IBM Data Lake Solutions](https://www.ibm.com/data-lake)
+
+title: "HPE Ezmeral Data Fabric"
+ring: assess
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Hewlett Packard Enterprise (NYSE: HPE) provides information technology solutions. The Company offers enterprise security, information technology infrastructure, analytics and data management, applications development and testing, data center care, cloud consulting, and business process services. Hewlett Packard Enterprise serves customers worldwide.
+[HPE Ezmeral Data Fabric](https://www.hpe.com/us/en/hpe-ezmeral-data-fabric.html)
+
+title: "Cloudera"
+ring: adopt
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Cloudera provides enterprise data management solutions that offer a unified platform for data, an enterprise data hub built on Apache Hadoop. It provides enterprises one place to store, process, and analyze all their data, empowering them to extend the value of existing investments while enabling fundamental new ways to derive value from their data.
+[Cloudera](https://www.cloudera.com/)
+
+title: "OneHouse"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Onehouse provides a cloud-native managed lakehouse service that helps to build data lakes, process data, and own data in open-source formats. The company provides data, through a cloud-managed lakehouse service built. Onehouse was founded in 2021 and is based in Menlo Park, California.
+[OneHouse](https://www.onehouse.ai/)
+
+title: "Qubole"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Qubole operates a cloud-native data platform for analytics and machine learning. Qubole's intelligent automation and self-service improve productivity, while workload-aware auto-scaling and real-time spot buying drive down compute costs. On October 14, 2020 Qubole was acquired by Idera. The terms of the transaction were not disclosed.
+[Qubole](https://www.qubole.com/)
+
+title: "ChaosSearch"
+ring: trial
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+ChaosSearch is a cloud-based log management and analytics service that extends the power of ELK directly onto AWS S3, providing access to long term data.
+[ChaosSearch](https://www.chaossearch.io/)
+
+title: "Cloudian"
+ring: assess
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+Cloudian is a cloud storage systems software. It offers solutions for data protection, data lakehouse, ransomware protection, data storage security, public cloud storage, data lifecycle management, and file services. It serves the federal government, financial services, manufacturing, media, education, healthcare, and life sciences. Cloudian was formerly known as Gemini Mobile Technologies. The company was founded in 2001 and is based in San Mateo, California.
+[Cloudian](https://cloudian.com/)
+
+title: "Iomete"
+ring: hold
+quadrant: Infrastructure
+tags: [Data Lakes/Lakehouses]
+featured: true
+---
+
+IOMETE is a data management company specializing in modern data lakehouse solutions. Their offerings include a platform that integrates various data processing tools and services, such as Apache Iceberg and Apache Spark, to provide scalable, secure, and efficient data management for AI and analytics. IOMETE's solutions cater to a diverse range of sectors including financial institutions, healthcare, public sector, and data resellers. It was founded in 2020 and is based in Mountain View, California
+[Iomete](https://iomete.com/)
+
 <!-- Applications //-->
 
 <!-- Analytics //-->

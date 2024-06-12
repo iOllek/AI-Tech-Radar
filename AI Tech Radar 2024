@@ -935,8 +935,301 @@ featured: true
 Artie specializes in real-time data replication, focusing on the synchronization of databases to data warehouses. The company offers a platform that enables high-volume data transfer with low latency, using change data capture (CDC) and stream processing to replicate data. Its solutions cater to data and engineering teams, providing tools for real-time analytics. The company was founded in 2023 and is based in San Francisco, California.
 [Artie](https://www.artie.com/)
 
+<!-- Analytics //-->
+
+<!-- BI Platforms //-->
+
+title: "Looker"
+ring: assess
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Looker provides a SaaS unified platform for data that delivers business insights to every employee at the point of decision. It delivers applications through its platform, including Business Intelligence, business-specific solutions such as Digital Marketing Analytics and Web Event Analytics, and a flexible, embedded analytics framework. The solution also integrates data into the daily workflows of users to allow organizations to extract value from data at web scale. The company was founded in 2012 and is based in Santa Cruz, California.
+[Looker](https://cloud.google.com/looker/)
+
+title: "Salesforce Einstein Analytics"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms][Salesforce]
+featured: true
+---
+
+Salesforce (NYSE: CRM) is an enterprise cloud computing provider. The company supplies a customer relationship management service to businesses worldwide providing a technology platform for customers and developers to build and run business applications. Its clients use salesforce.com to manage their customer, sales, and operational data. Sales Cloud, Service Cloud, Marketing Cloud, Community Cloud, Salesforce Analytics, and App Cloud are the product developed by the platform. It primarily focuses on automotive, communication, healthcare, education, financial services, non-profit, media, and other industries. The company was founded in 1999 and is based in San Francisco, California.
+[Salesforce Einstein Analytics](https://www.salesforce.com/form/sem/sales-cloud/sales-einstein-demo/)
+
+title: "Amazon QuickSight"
+ring: adopt
+quadrant: Analytics
+tags: [BI Platforms][AWS]
+featured: true
+---
+
+Amazon Web Services (AWS) is a business unit within Amazon.com that provides an infrastructure platform for businesses in the form of cloud computing.
+[Amazon QuickSight](https://aws.amazon.com/de/quicksight/)
+
+title: "Domo"
+ring: assess
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Domo is a fully mobile, cloud-based operating system that unifies every component of a business and delivers it all on the user's phone. The company was founded in 2010 and is based in American Fork, Utah.
+[Domo](https://www.domo.com/)
+
+title: "ThoughtSpot"
+ring: assess
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+ThoughtSpot is a modern analytics cloud company that creates a fact-driven world with an easy-to-use analytics platform. Through its platform, users can leverage natural language search and AI to find data insights on Live Analytics. Companies can put modern data stacks in the hands of employees, extend the value of data to partners and customers, and automate entire business processes. With ThoughtSpots developer-friendly platform, ThoughtSpot Everywhere, customers can bring the Modern Analytics Cloud to their products and services. The company was founded in 2012 and is based in Mountain View, California.
+[ThoughtSpot](https://www.thoughtspot.com/)
+
+title: "IBM Cognos Analytics"
+ring: adopt
+quadrant: Analytics
+tags: [BI Platforms][IBM]
+featured: true
+---
+
+IBM (NYSE: IBM) manufactures and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services in areas ranging from mainframe computers to nanotechnology. The company was founded in 1911 and is based in Armonk, Newyork.
+[IBM Cognos Analytics](https://www.ibm.com/products/cognos-analytics)
+
+title: "SAP Business Intelligence Suite"
+ring: adopt
+quadrant: Analytics
+tags: [BI Platforms][SAP]
+featured: true
+---
+
+SAP (FWB: SAP) (NYSE: SAP) is a multinational software corporation that makes enterprise software to manage business operations and customer relations.
+[SAP Business Intelligence Suite](https://www.sap.com/products/technology-platform/bi-platform.html)
+
+title: "Tibco Spotfire"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+TIBCO Software focuses on infrastructure and business intelligence software. It offers products such as TIBCO Cloud integration, TIBCO Cloud API management, TIBCO BusinessWorks, TIBCO BusinessConnect and more. The company caters to banking, credit union, energy, government, healthcare, insurance and more. TIBCO Software was founded in 1997 and is based in Palo Alto, California.
+[Tibco Spotfire](https://www.tibco.com/products/tibco-spotfire)
+
+title: "Oracle Analytics"
+ring: adopt
+quadrant: Analytics
+tags: [BI Platforms][Oracle]
+featured: true
+---
+
+Oracle operates as an enterprise software company. It offers a variety of software products, including enterprise resource planning (ERP), customer relationship management (CRM), human capital management (HCM), and more. It serves industries such as automotive, consumer goods, and energy among others. It was founded in 1977 and is based in Austin, Texas.
+[Oracle Analytics](https://www.oracle.com/business-analytics/)
+
+title: "Sas Business Intelligence"
+ring: adopt
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+SAS provides software and solutions for business analytics, data management, and AI, used to gather, manage, and analyze corporate information. It offers business analytics SaaS for a range of industries that include agriculture, banking, education, healthcare, insurance, life sciences, manufacturing, retail and consumer goods, public sector, sports, telecommunications and utility industries. The company was founded in 1976 and is based in Cary, North Carolina.
+[Tool Name](https://www.sas.com/en_us/solutions/business-intelligence.html)
+
+title: "Sisense"
+ring: assess
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Sisense goes beyond traditional business intelligence by providing organizations with the ability to infuse analytics everywhere, embedded in both customer and employee applications and workflows. Sisense customers are breaking through the barriers of analytics adoption by going beyond the dashboard with Sisense Fusion - the highly customizable, AI-driven analytics cloud platform, that infuses intelligence at the right place and the right time, every time.
+[Sisense](https://www.sisense.com/)
+
+title: "Atscale"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+AtScale provides enterprises with a universal semantic platform for Business Intelligence on Big Data, allowing business users at corporations across financial services, healthcare, telecommunications, retail, and online industries to get interactive and multi-dimensional analysis capabilities, directly on Hadoop and cloud-based big data platforms.
+[Atscale](https://www.atscale.com/)
+
+title: "Qlik"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Qlik specializes in data discovery and user-driven business intelligence, delivering solutions ranging from reporting and self-service visual analysis to guided, embedded, and custom analytics, regardless of where data is located.
+[Qlik](https://www.qlik.com/us/)
+
+title: "GoodData"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+GoodData is a provider of end-to-end cloud analytics that allows users to combine, analyze, and visualize data to quickly answer business-critical questions. GoodData's mission is to help companies become all data enterprises: companies that gain a competitive advantage by leveraging all data available to them through advanced analytics. The GoodData Open Analytics Platform helps companies manage and analyze that data in one seamless, interactive environment. The company was founded in 2007 and is based in San Francisco, California.
+[GoodData](https://www.gooddata.com/)
+
+title: "InforBirst"
+ring: adopt
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Infor Global Solutions provides business applications to mid-sized companies. The company offers numerous products for human capital management, enterprise resource planning, and customer relationship management. The company offers, Infor ERP, solutions that deliver functionality and usability specifically for the manufacturing and distribution industries. On February 4th, 2020, Infor was acquired by Koch Equity Development at a valuation of $11 billion.
+[InforBirst](https://www.infor.com/solutions/advanced-analytics/business-intelligence/birst)
+
+title: "Omni"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Omni operates a BI and data platform that turns SQL into intelligence. Its platform builds a sandbox data model as users query and allows them to promote metrics to an authoritative, shared model that can be used by the entire organization. The company was founded in 2022 and is based in San Francisco, California.
+[Omni](https://www.exploreomni.com/)
+
+title: "Microstrategy"
+ring: assess
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+MicroStrategy (Nasdaq: MSTR) is an independent business intelligence company with an enterprise analytics platform. It provides modern analytics on an open, comprehensive enterprise platform used by global brands in the Fortune Global 500. Optimized for cloud and on-premises deployments, the platform features HyperIntelligenceÂ®, a technology that overlays actionable enterprise data on popular business applications to help users make smarter and faster decisions. The company was founded in 1989 and is based in Vienna, Virginia.
+[Microstrategy](Microstrategy)
+
+title: "Grow"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Grow aims to make it easy and affordable to visualize and share business performance in real-time by uniting data from hundreds of sources, including spreadsheets, databases, and SaaS applications. On March 1st, 2022, Grow was acquired by Epicor. Terms of the transaction were not disclosed.
+[Grow](https://www.grow.com/)
+
+title: "Metabase"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Metabase is an open-source analytics and business intelligence application that can connect to the most commonly used databases. It lets anyone in a company quickly ask questions, and create dashboards or nightly emails without knowing SQL. Metabase was founded in 2014 and is based in San Francisco, California.
+[Metabase](https://www.metabase.com/)
+
+title: "Kyvos"
+ring: assess
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Kyvos is a BI acceleration platform that delivers instant insights on trillions of rows of data, both on the cloud and on-premise data lakes. Using its patented OLAP technology, Kyvos builds a high-performing semantic layer on modern data platforms that enables your existing BI tools to access extremely large datasets with interactive response times and no data movement. This capability allows users across the enterprise to conduct self-service, interactive analysis on data at a massive scale using any BI tool they like.
+[Kyvos](https://www.kyvosinsights.com/)
+
+title: "Popsql"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+PopSQL provides collaborative SQL query editing. PopSQL allows users to store SQL queries they run regularly, grouping them into folders that can be kept private or shared amongst their team.
+[Popsql](https://popsql.com/)
+
+title: "Lightdash"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Lightdash provides an open-sourced business intelligence (BI) platform for analysts to write metrics. It enables self-serve for the entire business and offers a developer-friendly BI platform with popular data insights warehouse integrations. The company was founded in 2020 and is based in San Francisco, California.
+[Lightdash](https://www.lightdash.com/)
+
+title: "Whiz.ai"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+WhizAI is a company that focuses on artificial intelligence and analytics within the life sciences industry. The company offers a platform that provides actionable insights and analytics to business users, enabling them to make informed and faster decisions. The platform is designed to understand and interpret the analytics needs of life sciences companies. It was founded in 2017 and is based in Somerset, New Jersey.
+[Whiz.ai](https://www.whiz.ai/)
+
+title: "Zing"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Zing Data is a company that focuses on mobile-first business intelligence in the data and business intelligence sector. The company offers a platform that allows users to ask questions of data and visualize answers easily, with features such as natural language querying, real-time alerts, and embedded analytics. It primarily serves sectors such as operations, sales, and DevOps. It was founded in 2021 and is based in San Francisco, California.
+[Zing](https://getzingdata.com/)
+
+title: "Veezoo"
+ring: hold
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Veezoo provides a tool enabling people to explore and visualize stock market data efficiently. The company's interface makes getting answers from data intuitive for everyone just by asking questions in plain English. It was founded in 2016 and is based in Zurich, Switzerland.
+[Veezoo](https://www.veezoo.com/)
+
+title: "Klipfolio"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Klipfolio is a company that focuses on business intelligence, specifically in the domain of data analytics and dashboard software. The company offers services that allow individuals and teams to connect to various data sources, prepare and store data, and create visualizations and reports for informed decision-making. Klipfolio primarily serves sectors that require data-driven decision making, such as the ecommerce industry, real estate tech industry, and cloud computing industry. It is based in Ottawa, Ontario
+[Klipfolio](https://www.klipfolio.com/)
+
+title: "Fluent"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Fluent specializes in AI-driven data analysis within the business intelligence sector. The company offers a platform that allows users to query company's data using natural language and receive insights without the need for interfaces or training. Fluent primarily serves sectors that require real-time data collaboration and insights, such as the ecommerce industry and enterprise-level businesses. It was founded in 2021 and is based in London, United Kingdom.
+[Fluent](https://www.fluenthq.com/)
+
+title: "SimplyPut"
+ring: hold
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+SimplyPut is a technology company that focuses on data analysis and interpretation. The company offers a platform that allows users to interact with their data using plain language, eliminating the need for coding. This is achieved through the use of advanced language models like ChatGPT and GPT-4. The company's services are primarily used in sectors that require data interpretation and analysis. It was founded in 2021 and is based in San Francisco, California.
+[SimplyPut](https://simplyput.ai/)
+
+title: "Whaly"
+ring: trial
+quadrant: Analytics
+tags: [BI Platforms]
+featured: true
+---
+
+Whaly is a self-service business intelligence platform that specializes in AI-powered data solutions for various industries. The company offers a suite of tools for data collection, analysis, and visualization, enabling users to make informed decisions and drive business growth without requiring technical expertise. Whaly's solutions cater to roles across sales, retail, and other sectors, providing real-time analytics, performance monitoring, and actionable insights. It was founded in 2020 and is based in Montreuil, France.
+[Whaly](https://whaly.io/)
+
 <!-- Applications //-->
 
-<!-- Analytics //-->
 
 <!-- AI & ML Platforms //-->

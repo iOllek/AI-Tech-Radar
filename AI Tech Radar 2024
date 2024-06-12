@@ -1565,58 +1565,22 @@ Graphext specializes in exploratory data analysis, data storytelling, and predic
 
 <!-- AI & ML Platforms //-->
 ---
-title: "Jupyter"
+title: "Cocalc"
+ring: trial
+quadrant: AI-&-ML-Platforms
+tags: [Data Science Notebooks]
+featured: true
+---
+CoCalc ist ein Online-Arbeitsbereich für Berechnungen in der Cloud, mit Unterstützung für Jupyter-Notebooks, LaTeX und kollaborative Bearbeitung. [Cocalc](https://cocalc.com/)
+
+---
+title: "Azure Notebooks"
 ring: adopt
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Jupyter is an open-source project that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It supports multiple programming languages and is widely used in data science, scientific computing, and machine learning. [Jupyter](https://jupyter.org/)
-
----
-title: "Google Colab"
-ring: adopt
-quadrant: AI-&-ML-Platforms
-tags: [Data Science Notebooks]
-featured: true
----
-Google Colab is a free, cloud-based Jupyter notebook environment that supports Python. It provides free access to GPUs and is integrated with Google Drive, making it easy to share and collaborate on projects. [Google Colab](https://colab.research.google.com/)
-
----
-title: "Deepnote"
-ring: trial
-quadrant: AI-&-ML-Platforms
-tags: [Data Science Notebooks]
-featured: true
----
-Deepnote is a collaborative data science notebook designed for teams. It combines the best features of Jupyter notebooks with real-time collaboration, version control, and integrations with popular data sources and tools. [Deepnote](https://deepnote.com/)
-
----
-title: "Zepl"
-ring: assess
-quadrant: AI-&-ML-Platforms
-tags: [Data Science Notebooks]
-featured: true
----
-Zepl is a cloud-based data science and analytics platform that supports Jupyter notebooks and integrates with various data sources and tools. It offers collaboration features, version control, and scalability for enterprise use. [Zepl](https://zepl.com/)
-
----
-title: "Observable"
-ring: trial
-quadrant: AI-&-ML-Platforms
-tags: [Data Science Notebooks]
-featured: true
----
-Observable is an interactive data visualization and exploration platform that combines the power of code with the ease of use of a spreadsheet. It supports JavaScript and is designed for data analysts, scientists, and developers. [Observable](https://observablehq.com/)
-
----
-title: "Saturn Cloud"
-ring: trial
-quadrant: AI-&-ML-Platforms
-tags: [Data Science Notebooks]
-featured: true
----
-Saturn Cloud is a platform for data science and machine learning that offers Jupyter notebooks with powerful compute resources, including GPUs and distributed computing capabilities. It is designed for scalability and collaboration. [Saturn Cloud](https://saturncloud.io/)
+Microsoft Azure ist ein Cloud-Computing-Dienst von Microsoft zum Erstellen, Testen, Bereitstellen und Verwalten von Anwendungen und Diensten über von Microsoft verwaltete Rechenzentren. [Azure Notebooks](https://notebooks.azure.com/)
 
 ---
 title: "Hex"
@@ -1625,67 +1589,103 @@ quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Hex is a collaborative data science platform that provides a flexible environment for writing, sharing, and running code in notebooks. It supports various integrations and allows for interactive data exploration and visualization. [Hex](https://hex.tech/)
+Hex baut eine Data-Science-Plattform, die es Nutzern ermöglicht, Analysen zu erstellen und zusammenzuarbeiten und sie in datengetriebene Apps zu verwandeln, unterstützt durch leistungsstarke Logik und tiefe Datenverbindungen. Das Unternehmen wurde 2019 gegründet und hat seinen Sitz in San Francisco, Kalifornien. [Hex](https://hex.tech/)
 
 ---
-title: "Polynote"
+title: "SaturnCloud"
 ring: trial
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Polynote is an open-source notebook for data science and machine learning. It offers features like first-class Scala support, multiple language backends, and reactive cells, enhancing interactivity and collaboration. [Polynote](https://polynote.org/)
+Saturn Cloud bietet eine Data-Science-Plattform, die eine parallele Computing-Bibliothek, Dask, als Hauptprodukt bietet und Teams Zusammenarbeit, skalierbare Rechenressourcen und Analysen ermöglicht. [SaturnCloud](https://saturncloud.io/)
 
 ---
-title: "Nextjournal"
+title: "NextJournal"
 ring: trial
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Nextjournal is a notebook platform for reproducible research that supports multiple languages and environments. It provides tools for collaboration, versioning, and sharing of data science and machine learning projects. [Nextjournal](https://nextjournal.com/)
+NextJournal ist eine webbasierte Plattform, die sich auf die Verbesserung der Reproduzierbarkeit und Zusammenarbeit in der Forschung konzentriert. Sie bietet eine Programmierumgebung im Notebook-Stil zur Unterstützung mehrerer Sprachen und Funktionen wie automatische Versionierung, Echtzeit-Zusammenarbeit und bedarfsgerechte Bereitstellung mit GPU-Unterstützung. Die Plattform richtet sich hauptsächlich an maschinelles Lernen, Datenwissenschaftler, Pädagogen und Wissenschaftler, die reproduzierbare Forschung und Analysen teilen möchten. Sie hat ihren Sitz in Berlin, Deutschland. [NextJournal](https://nextjournal.com/)
 
 ---
-title: "Kaggle Notebooks"
+title: "Amazon SageMaker"
 ring: adopt
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Kaggle Notebooks is a free, cloud-based Jupyter notebook environment provided by Kaggle. It offers seamless integration with Kaggle datasets and competitions, making it a popular choice for data scientists and machine learning practitioners. [Kaggle Notebooks](https://www.kaggle.com/notebooks)
+Amazon Web Services (AWS) ist eine Geschäftseinheit innerhalb von Amazon.com, die eine Infrastrukturplattform für Unternehmen in Form von Cloud-Computing bereitstellt. [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 
 ---
-title: "IBM Watson Studio"
-ring: adopt
-quadrant: AI-&-ML-Platforms
-tags: [Data Science Notebooks]
-featured: true
----
-IBM Watson Studio provides a collaborative environment for data scientists, application developers, and subject matter experts to collaboratively and easily work with data. It includes tools for building, training, and deploying machine learning models. [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio)
-
----
-title: "Azure Notebooks"
+title: "Deepnote"
 ring: trial
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Azure Notebooks is a free service provided by Microsoft that enables users to create and share Jupyter notebooks in the cloud. It integrates with Azure's data and machine learning services, offering a powerful platform for data science. [Azure Notebooks](https://notebooks.azure.com/)
+Deepnote entwickelt ein Data-Science-Notebook für Teams. In dem Notebook können Benutzer ihre Daten verbinden, erkunden und analysieren. Benutzer können Projektlinks leicht mit Teammitgliedern oder Endbenutzern teilen, um ausgearbeitete Assets zu präsentieren. Dies erfolgt über eine einfache, browserbasierte Benutzeroberfläche, die in der Cloud läuft. [Deepnote](https://deepnote.com/)
 
 ---
-title: "Apache Zeppelin"
+title: "Jupyter"
 ring: adopt
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Apache Zeppelin is a web-based notebook that supports data-driven, interactive data analytics, and collaborative documents with SQL, Scala, and more. It allows data visualization and sharing of insights. [Apache Zeppelin](https://zeppelin.apache.org/)
+Jupyter ist ein Open-Source-Projekt, das es Nutzern ermöglicht, Dokumente zu erstellen und zu teilen, die Live-Code, Gleichungen, Visualisierungen und narrativen Text enthalten. Es unterstützt mehrere Programmiersprachen und wird weit verbreitet in der Datenwissenschaft, wissenschaftlichen Berechnungen und maschinellem Lernen eingesetzt. [Jupyter](https://jupyter.org/)
 
 ---
-title: "Mode Notebooks"
+title: "Google Cloud Vertex AI"
+ring: adopt
+quadrant: AI-&-ML-Platforms
+tags: [Data Science Notebooks]
+featured: true
+---
+Google Cloud Platform, angeboten von Google, ist eine Suite von Cloud-Computing-Diensten, die auf derselben Infrastruktur läuft, die Google intern für seine Endbenutzerprodukte verwendet. [Google Cloud Vertex AI](https://cloud.google.com/vertex-ai)
+
+---
+title: "Binder"
 ring: trial
 quadrant: AI-&-ML-Platforms
 tags: [Data Science Notebooks]
 featured: true
 ---
-Mode Notebooks is part of the Mode analytics platform, offering an environment for collaborative data exploration and visualization. It supports SQL, Python, and R, making it a versatile tool for data scientists. [Mode Notebooks](https://mode.com/notebooks)
+Binder ist eine cloudbasierte Plattform, die darauf abzielt, wachstumsstarke Unternehmen dabei zu unterstützen, Talente zu identifizieren, zu qualifizieren und einzustellen. [Binder](https://mybinder.org/)
+
+---
+title: "Google Colab"
+ring: adopt
+quadrant: AI-&-ML-Platforms
+tags: [Data Science Notebooks]
+featured: true
+---
+Google Cloud Platform, angeboten von Google, ist eine Suite von Cloud-Computing-Diensten, die auf derselben Infrastruktur läuft, die Google intern für seine Endbenutzerprodukte verwendet. [Google Colab](https://colab.research.google.com/)
+
+---
+title: "noteable"
+ring: trial
+quadrant: AI-&-ML-Platforms
+tags: [Data Science Notebooks]
+featured: true
+---
+Noteable entwickelt ein kollaboratives Notebook-Erlebnis, das die Barrieren zwischen Datenanalytik- und Data-Science-Teams beseitigt. [noteable](https://noteable.io/)
+
+---
+title: "Curvenote"
+ring: trial
+quadrant: AI-&-ML-Platforms
+tags: [Data Science Notebooks]
+featured: true
+---
+Curvenote ist eine kollaborative Schreibumgebung für wissenschaftliche Inhalte, mit Integration in Jupyter. [Curvenote](https://curvenote.com/)
+
+---
+title: "Count"
+ring: trial
+quadrant: AI-&-ML-Platforms
+tags: [Data Science Notebooks]
+featured: true
+---
+Count entwickelt eine Datenplattform, die frühen Teams Werkzeuge zur Erstellung von Datenpipelines bietet. Es bietet Lösungen für Ad-hoc-Analysen, Datenumwandlung, Problemlösung und Berichterstattung. Das Unternehmen wurde 2016 gegründet und hat seinen Sitz in London, Großbritannien. [Count](https://count.co/)
